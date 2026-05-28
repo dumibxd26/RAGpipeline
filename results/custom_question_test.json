@@ -1,0 +1,36 @@
+[
+  {
+    "query_id": "custom",
+    "question": "Should I keep cash in a 401k plan?",
+    "relevant_doc_ids": [],
+    "retrieved": [
+      {
+        "doc_id": "240562",
+        "chunk_index": 0,
+        "text": "your employer decides what options you have in the 401k. you can talk to your hr about that. there are requirements for diversity of various types of investments, money - market funds is being one of them. that is the investment account equivalent of cash. while it is not really cash but rather short term bonds - the term is generally very short and the risk is very limited. you can ' t earn much there, and you can ' t lose much there - so for all intents and purposes you can treat is as a cash - equivalent."
+      },
+      {
+        "doc_id": "35357",
+        "chunk_index": 0,
+        "text": "do you have other things you might want to spend that cash on in the near future? ( like a down - payment on a house? ) beyond having emergency cash, the only reason to keep a pile of cash around is because you might need it for another purchase. unless you are going to have other expenses that will require higher - interest loans to cover them, there ' s no need to sit on a big pile of cash. as long as you are getting the full match on your 401 ( k ), that ' s the free money that might be worth more than the interest you are paying on the loans. in any case, i suggest you aim for at least 10 % into your 401 ( k ) account moving forward in your life so that you can properly fund retirement. 15 % would be even better. it doesn ' t sound like you would be losing anything by paying the student loans, and you could then use the money freed from your loan payments to pay down your car faster."
+      },
+      {
+        "doc_id": "494655",
+        "chunk_index": 1,
+        "text": "least it should offer a short - term bond fund. if you feel strongly that your money should be in actual cash, you can always stop contributing to the 401k and put the money in the bank. this is not a good idea though. unless you ' re close to retirement, you ' ll be much better off investing in a well diversified portfolio, even through the ups and downs of the market. \""
+      },
+      {
+        "doc_id": "364131",
+        "chunk_index": 1,
+        "text": "financially responsible person, i think you ' re generally better off keeping your money outside of an ira or 401k, with the exception of making sure to get all of your employer ' s matching contributions."
+      },
+      {
+        "doc_id": "509124",
+        "chunk_index": 0,
+        "text": "another consideration that is not in the hard numbers. many people, myself included, find it hard to have the discipline to save for something that is so far off. the 401k plan at work has the benefit of pulling the money out before you see it, so you learn to live on what is left more easily. also, depending on the type of 401k it attaches penalties to using the money early disincentive you to pull it out for minor emergencies."
+      }
+    ],
+    "retrieval_hit": null,
+    "answer": "[240562#0] your employer decides what options you have in the 401k. you can talk to your hr about that. there are requirements for diversity of various types of investments, money - market funds is being one of them. that is the investment account equivalent of cash. while it is not really cash but rather short term bonds - the term is generally very short and the risk is very limited. you can ' t earn much there, and you can ' t lose much there - so for all intents and purposes you can treat is as a cash - equivalent. \n\n\n[35357#0] do you have other things you might want to spend that cash on in the near future? ( like a down - payment on a house? ) beyond having emergency cash, the only reason to keep a pile of cash around is because you might need it for another purchase. unless you are going to have other expenses that will require higher - interest loans to cover them, there ' s no need to sit on a big pile of cash. as long as you are getting the full match on your 401 ( k ), that ' s the free money that might be worth more than the interest you are paying on the loans. in any case, i suggest you aim for at least 10 % into your 401 ( k ) account moving forward in your life so that you can properly fund retirement. 15 % would be even better. it doesn ' t sound like you would be losing anything by paying the student loans, and you could then use the money freed from your loan payments to pay down your car faster.\n\n[494655#1] least it should offer a short - term bond fund. if you feel strongly that your money should be in actual cash, you can always stop contributing to the 401k and put the money in the bank. this is not a good idea though. unless you ' re close to retirement, you ' ll be much better off investing in a well diversified portfolio, even through the ups and downs of the market. \"\n\n[364131#1] financially responsible person, i think you ' re generally better off keeping your money outside of an ira or 401k, with the exception of making sure to get all of your employer ' s matching contributions.\n\n[509124#0] another consideration that is not in the hard numbers. many people, myself included, find it hard to have the discipline to save for something that is so far off. the 401k plan at work has the benefit of pulling the money out before you see it, so you learn to live on what is left more easily. also, depending on the type of 401k it attaches penalties to using the money early disincentive you to pull it out for minor emergencies.\n\n\n\nBased on the provided context, I don't know if you should keep cash in a 401k plan."
+  }
+]

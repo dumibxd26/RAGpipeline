@@ -1,0 +1,36 @@
+[
+  {
+    "query_id": "custom",
+    "question": "How should I rebalance my retirement portfolio?",
+    "relevant_doc_ids": [],
+    "retrieved": [
+      {
+        "doc_id": "418551",
+        "chunk_index": 1,
+        "text": "each investment class, there are no hard and fast rules. the idea is to maximize return while accepting a certain amount of risk. there are two big unknowns in there : ( 1 ) how much return do you expect from the various investments, and ( 2 ) how much risk are you willing to accept. # 1 is a big guess, and # 2 is personal opinion. a general portfolio guideline is \" \" 100 minus your age \" \". this means if you are 20, you should have 80 % of your retirement portfolio in stocks. if you are 60, your retirement portfolio should be 40 % stock. over the years, the \" \" 100 \" \" number has varied. some financial advisor types have suggested \" \" 150 \" \" or \" \" 200 \" \". unfortunately, that ' s why a lot of baby boomers can ' t retire now. above all, re - balance your portfolio regularly. at least once a year, perhaps quarterly if the market is going wild. make sure you are still in - line with your desired asset allocation. if the stock market tanks and you are under - invested in stocks, buy more stock, selling off other funds if necessary. ( i ' ve read interviews with fund managers who say failure to rebalance in a down"
+      },
+      {
+        "doc_id": "516607",
+        "chunk_index": 1,
+        "text": "be to never rebalance and just let 75 % equity go to near 100 % as equity has better long term returns. this happens when you look only at returns as the final number and don ' t take into account the change in risk in your portfolio. in practice, most people that are still adding ( or subtracting in retirement ) to a retirement portfolio are adding ( removing ) a significant amount compared to the total amount in their portfolio. in the case you discribe, it is cheaper ( massively cheaper in the presence of load fees ) just to use new capital to trade toward your target, keeping your risk profile. new money should be large enough to keep you near enough your target. if you just estimate the trading costs / fees in both cases i think you ' ll see just how large the difference is between the two methods this will dwarf any small differences in return over the long run even if you can ' t trade back all the way to your target. \""
+      },
+      {
+        "doc_id": "39569",
+        "chunk_index": 0,
+        "text": "\" there ' s nothing to rebalance, the index fund rebalances itself to continue matching the index. however, you need to understand that such an investment is not diversified and you only invest in a very specific market, and very specific stocks on that market. s & p 500 is large ( 500 different companies, most of the time ), but still not as broadly diversified as your retirement investment portfolio should be. you should talk to a financial adviser ( cfp for example ), many companies provide access to these for 401k plan participants. but in any case, i ' d suggest considering \" \" target date \" \" funds - funds that are investing based on your expected retirement year, and become more conservative as you get closer to that year. \""
+      },
+      {
+        "doc_id": "22221",
+        "chunk_index": 1,
+        "text": "' t always worth the effort. that ' s why you don ' t need to rebalance every month or if your portfolio has shifted from 50 / 50 to 51 / 49. i take a look at my portfolio once a year, and adjust my automated investments so that by the end of the next year i ' m back to the ratio i want."
+      },
+      {
+        "doc_id": "307409",
+        "chunk_index": 0,
+        "text": "\" joetaxpayer ' s advice is solid - reallocating to your target asset allocation is the right move. you should have an investor policy statement ( ips ) that maps out your financial objectives, risk tolerance, liquidity constraints, etc. from the ips, you can determine your target asset allocation and rebalance accordingly. a few more comments : it sounds like 100 % of your 401k is in us stocks. you might have other accounts that make your overall portfolio globally diversified, but if not, you want to make sure to set a target asset allocation for a global portfolio. your statement \" \" if this were in my brokerage account i ' d probably cash out some of the profits and hold onto it and buy more shares as the market eventually comes back down. but this being a 401k which has semi - monthly deposits from my paycheck, do i just leave it? \" \" is a bit counterintuitive. if you are going to try to time the market ( a very hard task ), it is better to use a retirement account, so you don ' t have to realize capital gains. timing the market is probably a bad idea, but if you engage in market timing, it is probably better to use a retirement account"
+      }
+    ],
+    "retrieval_hit": null,
+    "answer": "You should rebalance your retirement portfolio at least once a year, perhaps quarterly if the market is going wild. Make sure you are still in line with your desired asset allocation. If the stock market tanks and you are under-invested in stocks, buy more stock, selling off other funds if necessary. [39569#0]  [22221#1]"
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "query_id": "2395",
+    "question": "Freelance site with lowest commission fees?",
+    "relevant_doc_ids": [
+      "179066"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "158091",
+        "chunk_index": 0,
+        "text": "since you are not starting with a lot of cash the commissions may eat into your account. so go with somebody that has no inactivity fee and low / free commission. i think there are number of sites and the ing sharebuilder. com comes to mind. scottrade also one of the cheaper ones that i used."
+      },
+      {
+        "doc_id": "294517",
+        "chunk_index": 0,
+        "text": "have you looked at optionshouse? they charge $ 2. 95 per trade and are one of the lowest when it comes to fees. bare bones interface, but fast execution."
+      },
+      {
+        "doc_id": "409797",
+        "chunk_index": 0,
+        "text": "i don ' t know of any and it is unlikely that you will be able to find one. most credit card processors charge a flat fee plus percentage. the flat fee is typically in the 35 cent range making the cost of doing business, in the manner you are suggesting, astronomical. also what you are suggesting is contrary to best practices as hosting services, and many other industries, offer deep discounts when making a single payment for an extended period of time. this is not very helpful, but i think it is unrealistic to find what you are suggesting."
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "[294517#0] have you looked at optionshouse? they charge $ 2. 95 per trade and are one of the lowest when it comes to fees. bare bones interface, but fast execution."
+  },
+  {
+    "query_id": "10645",
+    "question": "Explain the details and benefits of rebalancing a retirement portfolio?",
+    "relevant_doc_ids": [
+      "22221",
+      "588607"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "36284",
+        "chunk_index": 0,
+        "text": "from vanguard ' s best practices for portfolio rebalancing :"
+      },
+      {
+        "doc_id": "377117",
+        "chunk_index": 1,
+        "text": "your desired asset allocation but still have enough to live on. again you will be trying to meet a specific $ figure. of course you may decide at anytime in retirement to rebalance based on changes to your lifestyle, family obligations, or winning the lottery."
+      },
+      {
+        "doc_id": "319182",
+        "chunk_index": 0,
+        "text": "\" i ' m assuming that all the savings are of ' defined contribution ' type, and not ' defined benefit ' as per marktristan ' s comment to the original question. aside from convenience of having all the pension money in one place, which may or may not be something you care about, there may be a benefit associated with being able to rebalance your portfolio when you need do. say you invest your pension pot in a 60 % / 40 % of equities and bonds respectively. due higher risk / reward ratio of the equities part, in the long run equities tend to get ' overweight ' turning your mix into 70 % / 30 % or even 80 % / 20 %, therefore raising your overall exposure to equities. general practice is to rebalance your portfolio every now and then, in this case, by selling some equities and buying more bonds ( \" \" sell high, buy low \" \" ). now if you have few small pockets of pension money, it makes it harder to keep track of the overall asset allocation and actually do the rebalancing as you cannot see and trade everything from one place. \""
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "Rebalancing a retirement portfolio involves selling some assets that have performed well (like equities) and buying more assets that have underperformed (like bonds). This helps to maintain your desired asset allocation, which is crucial for long-term financial stability. [36284#0]  [319182#0]"
+  },
+  {
+    "query_id": "4700",
+    "question": "Better to get loan from finance company or bank considering the drop of credit score?",
+    "relevant_doc_ids": [
+      "345137"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "345137",
+        "chunk_index": 0,
+        "text": "if your primary concern is a drop in your credit score, go to a mortgage broker instead of multiple banks and finance companies. each time you ask a bank or financial institution for a loan, they do a hard pull on your credit rating which costs you a couple of points. visit a dozen lenders and you ' ll lose 24 points. you will also be signalling to lenders that you ' re shopping for money. if you visit a mortgage broker he does a single hard pull on your credit score and offers your loan query to a dozen or more lenders, some of which you may not have even heard of. this costs you 2 points instead of 24. if you are only going to visit one financial institution or another specific one, the drop in credit score is the same couple of points. the above answer only applies if you make loan inquiries at multiple institutions."
+      },
+      {
+        "doc_id": "121414",
+        "chunk_index": 0,
+        "text": "\" the simple answer might just be that the increased credit score you mentioned was enough to suddenly make you eligible for this lenders better rate, so maybe that ' s why you weren ' t able to get that low a rate before. another option i can think of is that this particular bank offers these loans as a \" \" teaser rate \" \" to hopefully get more of your business later on. it ' s not exactly a loss leader i would think, given the non - existing deposit rates they ' re probably still able to make money on the spread but they might be able to undercut other banks enough to get their hooks into you. figuratively speaking, of course. of course in order to evaluate if it ' s worth switching to this deal, you ' ll also have to look at prepayment penalties and fees on your current loan. these extra costs might be enough to make the switch uneconomic. \""
+      },
+      {
+        "doc_id": "486604",
+        "chunk_index": 0,
+        "text": "apart from the reasons currently given ( which have to do with personal relations ), wouldn ' t a good reason to take the loan from the bank be to build up a credit history and / or improve your credit score?"
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "[345137#0] if you are only going to visit one financial institution or another specific one, the drop in credit score is the same couple of points.  the above answer only applies if you make loan inquiries at multiple institutions. \n[486604#0] apart from the reasons currently given ( which have to do with personal relations ), wouldn ' t a good reason to take the loan from the bank be to build up a credit history and / or improve your credit score?"
+  },
+  {
+    "query_id": "4265",
+    "question": "Does it make any sense to directly contribute to reducing the US national debt?",
+    "relevant_doc_ids": [
+      "140947",
+      "157553",
+      "293111",
+      "349710",
+      "392163",
+      "93881"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "157553",
+        "chunk_index": 0,
+        "text": "no, it makes no sense. the us national debt is different from other debt on two key ways : 1. ) the national debt is not money we owe to our government it is money we owe to ourselves. 2. ) if the gnp of our country can grow at a rate equal to or greater than the national debt interest, then the figure of national debt has no bearing on anything. so a more philanthropic endeavor would be to help grow the economy."
+      },
+      {
+        "doc_id": "431109",
+        "chunk_index": 0,
+        "text": "yes thats true but i think the point is you have to look at it in context - reduced spending will hurt the economy but you also can ' t just spend endlessly on credit cards and bank loans either. the point here is it seems like the whole system has hit a wall in terms of further increasing debt levels. i think that while their analysis is overly simplistic, there is a point here in that we do need to cut the debt down."
+      },
+      {
+        "doc_id": "372283",
+        "chunk_index": 0,
+        "text": "should voters care? what is the scenario in which this debt actually becomes a problem? it seems to me that the money from this debt is largely going into the pockets of us citizens, so less debt would mean less prosperity for americans. what are the arguments against this assumption?"
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "[372283#0] should voters care? what is the scenario in which this debt actually becomes a problem? it seems to me that the money from this debt is largely going into the pockets of us citizens, so less debt would mean less prosperity for americans. what are the arguments against this assumption? \n[157553#0] no, it makes no sense. the us national debt is different from other debt on two key ways : 1. ) the national debt is not money we owe to our government it is money we owe to ourselves. 2. ) if the gnp of our country can grow at a rate equal to or greater than the national debt interest, then the figure of national debt has no bearing on anything. so a more philanthropic endeavor would be to help grow the economy. \n[431109#0] yes thats true but i think the point is you have to look at it in context - reduced spending will hurt the economy but you also can ' t just spend endlessly on credit cards and bank loans either. the point here is it seems like the whole system has hit a wall in terms of further increasing debt levels. i think that while their analysis is overly simplistic, there is a point here in that we do need to cut the debt down. \n\n\nBased on the provided context, it's unclear whether directly contributing to reducing the US national debt makes sense."
+  },
+  {
+    "query_id": "3934",
+    "question": "Should market based health insurance premiums be factored into 6 months emergency fund savings?",
+    "relevant_doc_ids": [
+      "122952",
+      "201769",
+      "209604",
+      "457034"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "402438",
+        "chunk_index": 0,
+        "text": "regarding medical insurance premiums - the premiums are only part of the cost. you need to know if you have a deductible, your out of pocket maximum and what co - pays you have. if you take medications on a daily basis you need to account for those costs. some programs allow you to put money aside pre - tax to pay for these known expenses. i would split emergency fund / general savings into two lines. you can set a goal to save x months worth of expenses as an emergency fund, but the general savings will be whatever is left over from the rest of your budget. unless you have a goal for the savings : car, home..."
+      },
+      {
+        "doc_id": "68239",
+        "chunk_index": 0,
+        "text": "the issue is how likely you will have zero income for six months, and what are your monthly expenses. if you know the maximum medical bill you face that may allow you to save a smaller amount. but you still have to protect for that loss of income. the interuption could be because of job loss, medical emergency, or other family crisis. if i told you that the chances you would face a crisis dropped by 50 %, would you decide that the need for an emergency fund went away? or would you still create a fund? i think the need still exists just to avoid the downside if you aren ' t prepared."
+      },
+      {
+        "doc_id": "201769",
+        "chunk_index": 0,
+        "text": "yes, it should be. as, where one has insurance, its an expense one would expect one to continue to incur in a normal budgetary emergency, even drop in the extreme."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "Yes, market based health insurance premiums should be factored into 6 months emergency fund savings. [201769#0]"
+  },
+  {
+    "query_id": "2676",
+    "question": "Tax question about selling a car",
+    "relevant_doc_ids": [
+      "55666"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "581380",
+        "chunk_index": 0,
+        "text": "you continue with this form. the fact that the trade in value is less than market value doesn ' t mean that you don ' t have taxable income from the sale. since you depreciated the car before selling it, you need to compare the trade in value not to the market value, but to your cost basis, which may be lower."
+      },
+      {
+        "doc_id": "460530",
+        "chunk_index": 0,
+        "text": "to focus on your question.. pay it off then trade in. the reason is because say you just have 14k laying around and buy a car for 14k, you must pay 14k plus tax. if you are in one of the states that allows the tax break, then trading the 14k valued vehicle in for a 14k vehicle will nullify your sales tax. as per your question, if you traded the car in at 7k, you would then owe 7k plus tax. you only have 7k.. so how would you pay for the tax and why would you want to? pay off the car and you ' ll have 14k of tax free off any car."
+      },
+      {
+        "doc_id": "495281",
+        "chunk_index": 0,
+        "text": "also, depending where you buy the car in the us, you have to pay property tax every year for just having purchased the car."
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "If you trade in your car for less than its market value, you still need to consider your cost basis when calculating taxable income. [581380#0] \nYou should compare the trade-in value to your cost basis, which may be lower.  [581380#0] \n\n\nIf you trade in a car for less than its market value, you still need to consider your cost basis when calculating taxable income. [581380#0] \nYou should compare the trade-in value to your cost basis, which may be lower.  [581380#0]"
+  },
+  {
+    "query_id": "2316",
+    "question": "What exchange rate does El Al use when converting final payment amount to shekels?",
+    "relevant_doc_ids": [
+      "348955",
+      "482343"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "482343",
+        "chunk_index": 0,
+        "text": "\" the rate for \" \" checks and transfers \" \" is set by each bank multiple times during the day based on the market. it is as opposed to the rate for \" \" cash / banknotes \" \", also set by each bank, and the \" \" representative rate \" \" ( שער היציג ) set by the bank of israel. these rates can be found on the websites of most banks. here is bank hapoalim and bank leumi. the question is which bank ' s rate will be used. it might be the bank that issued your card, el al ' s bank, or the credit card company ( ie poalim for isracard or leumi for cal ). you will need to call el al to verify, but since these are market rates, they shouldn ' t be too different. \""
+      },
+      {
+        "doc_id": "439779",
+        "chunk_index": 2,
+        "text": "who will be handling your transaction. amazon will tell you at the checkout what exchange rate they will apply if you are having them convert a bill into your local currency for you. for credit / debit card transactions processed in a different currency than the attached account, you need to look at your specific agreement or contact the bank to see which rate they use for daily transactions ( and where you can obtain these rates ), whether they convert on the day of the transaction vs. the day it posts to your account, and how much they add on ( $ and / or % ) in fees and commission."
+      },
+      {
+        "doc_id": "455577",
+        "chunk_index": 0,
+        "text": "i think you answered yourself. the rate difference is because of the base rates differences, and it ' s not worth moving money around because the rate conversions ( even if the currency rates don ' t fluctuate ) will eat up the difference."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "I don't know based on the provided context. [482343#0]"
+  },
+  {
+    "query_id": "8475",
+    "question": "Why I cannot find a “Pure Cash” option in 401k investments?",
+    "relevant_doc_ids": [
+      "104793",
+      "240562",
+      "293320",
+      "437427",
+      "444107",
+      "481728",
+      "494655"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "240562",
+        "chunk_index": 0,
+        "text": "your employer decides what options you have in the 401k. you can talk to your hr about that. there are requirements for diversity of various types of investments, money - market funds is being one of them. that is the investment account equivalent of cash. while it is not really cash but rather short term bonds - the term is generally very short and the risk is very limited. you can ' t earn much there, and you can ' t lose much there - so for all intents and purposes you can treat is as a cash - equivalent."
+      },
+      {
+        "doc_id": "494655",
+        "chunk_index": 0,
+        "text": "\" holding pure cash is a problem for 401k companies because they would then have follow banking rules because they would be holding your cash on their balance sheets. they don ' t want to be in that business. instead, they should offer at least one option as a cash equivalent - a money market fund. this way the money is held by the fund, not by 401k administrator. money market funds invest in ultra - short term paper, such as overnight loans between banks and other debt instruments that mature in a matter of days. so it is all extremely liquid, as close to \" \" money \" \" as you can get without actually being money. it is extremely rare for a money market fund to lose value, or \" \" break the buck. \" \" during the crisis of 2008, only one or two funds broke the buck, and it didn ' t last long. they had gotten greedy and their short term investments were a little more aggressive as they were trying to get extra returns. in short, your money is safe in a money market fund, and your 401k plan should offer one as the \" \" cash \" \" option, or at least it should offer a short - term bond fund. if you feel strongly that your money should be in actual cash, you can"
+      },
+      {
+        "doc_id": "104793",
+        "chunk_index": 0,
+        "text": "this situation, wanting desperately to have access to an investment vehicle in a 401k, but it not being available reminds me of two suggestions some make regarding retirement investing : this allows you the maximum flexibility in your retirement investing. i have never, in almost 30 years of 401k investing, seen a pure cash investment, is was always something that was at its core very short term bonds. the exception is one company that once you had a few thousand in the 401k, you could transfer it to a brokerage account. i have no idea if there was a way to invest in a money market fund via the brokerage, but i guess it was possible. you may have to look and see if the company running the 401k has other investment options that your employer didn ' t select. or you will have to see if other 401k custodians have these types of investments. then push for changes next year. regarding external ira / roth ira : you can buy a cd with fdic protection from funds in an ira / roth ira. my credit union with ncua protection currently has cds and even bump up cds, minimum balance is $ 500, and the periods are from 6 months to 3 years."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "[240562#0] your employer decides what options you have in the 401k. you can talk to your hr about that. there are requirements for diversity of various types of investments, money - market funds is being one of them. [doc_id#0]  that is the investment account equivalent of cash. while it is not really cash but rather short term bonds - the term is generally very short and the risk is very limited. you can ' t earn much there, and you can ' t lose much there - so for all intents and purposes you can treat is as a cash - equivalent. \n[104793#0] this situation, wanting desperately to have access to an investment vehicle in a 401k, but it not being available reminds me of two suggestions some make regarding retirement investing : this allows you the maximum flexibility in your retirement investing. i have never, in almost 30 years of 401k investing, seen a pure cash investment, is was always something that was at its core very short term bonds. [doc_id#0]  the exception is one company that once you had a few thousand in the 401k, you could transfer it to a brokerage account. i have no idea if there was a way to invest in a money market fund via the brokerage, but i guess it was possible. you may have to look and see if the company running the 401k has other investment options that your employer didn ' t select. or you will have to see if other 401k custodians have these types of investments. then push for changes next year. regarding external ira / roth ira : you can buy a cd with fdic protection from funds in an ira / roth ira. my credit union with ncua protection currently has cds and even bump up cds, minimum balance is $ 500, and the periods are from 6 months to 3 years. \n\n\n\n**Answer:**  401k plans typically offer money market funds as a cash equivalent option. [240562#0]"
+  },
+  {
+    "query_id": "2010",
+    "question": "Paypal website donations without being a charity",
+    "relevant_doc_ids": [
+      "174034",
+      "233877",
+      "44256"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "233877",
+        "chunk_index": 0,
+        "text": "yes, paypal allows you to add a donate button to your website. you ' re responsible for any tax record - keeping related to income from the donate button."
+      },
+      {
+        "doc_id": "571006",
+        "chunk_index": 0,
+        "text": "i see two ways you can handle this. use the gifts for the purpose of creating more free software. this is fundraising, and your cause is writing free software. the language is a little tricky from the paypal donate button ( emphasis mine ) : this button is intended for fundraising. if you are not raising money for a cause, please choose another option. nonprofits must verify their status to withdraw donations they receive. users that are not verified nonprofits must demonstrate how their donations will be used, once they raise more than $ 10, 000 usd. you don ' t have to be a nonprofit ; they are only requiring existing nonprofits to verify their status. you don ' t even have to account for the donations if they are below $ 10, 000. give out your paypal email address and instruct the gift - givers to simply send you money through their paypal interface. they can mark it as a gift when they send the money. i think option one is how the various bloggers and other personal users are justifiying their collection of donations, and i think its a valid use of the paypal donate button."
+      },
+      {
+        "doc_id": "517410",
+        "chunk_index": 0,
+        "text": "from paypal ' s website : paypal offers discounted transaction rates for 501 ( c ) ( 3 ) charities for most products, and consistently low rates for all other nonprofits. no extra fees for setup, statements, withdrawals or cancellation. 2. 2 % + $ 0. 30 per transaction and no monthly fee for charities. there is a reduced rate if the donations total more than $ 100, 000 ( which they would for wikipedia ), but paypal doesn ' t publish those rates. you have to call and ask about them. one forum i read indicates the rate drops to 1. 9 % + $ 0. 30 per transaction."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "You can use the PayPal donate button for personal fundraising, but you must demonstrate how your donations will be used if you raise more than $10,000 USD. [233877#0] \n[571006#0]  Users that are not verified nonprofits must demonstrate how their donations will be used, once they raise more than $10,000 USD. You don't have to be a nonprofit; they are only requiring existing nonprofits to verify their status. [571006#0] \n[517410#0]  Paypal offers discounted transaction rates for 501(c)(3) charities for most products, and consistently low rates for all other nonprofits. No extra fees for setup, statements, withdrawals or cancellation. 2.2% + $0.30 per transaction and no monthly fee for charities. There is a reduced rate if the donations total more than $100,000 ( which they would for Wikipedia), but paypal doesn't publish those rates. You have to call and ask about them. [517410#0]"
+  },
+  {
+    "query_id": "9245",
+    "question": "Stock Options for a company bought out in cash and stock",
+    "relevant_doc_ids": [
+      "194561"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "400644",
+        "chunk_index": 0,
+        "text": "in the real world, there are only two times you ' ll see that 5 % become worth anything - ie, something you can exchange for cash - 1 ) if another company buys them ; ( 2 ) if they go public. if neither of these things happen, you cannot do anything with the stock or stock options that you own."
+      },
+      {
+        "doc_id": "259560",
+        "chunk_index": 0,
+        "text": "\" i ' m in the us, so there may be idiosyncrasies with uk taxes that i ' m not familiar with, but here ' s how i ' ve always treated stock i get as compensation. suppose the vested shares are worth x. if i had x in cash, would i buy my company ' s stock as an investment? usually the answer is no, not because i think the stock will tank, but because there ' s better things i can do with that cash ( pay off debt, unfortunately ). therefore i sell the shares and use the cash for something else. you have stock options. so suppose the stock value is x but you can buy it for y. you can either : therefore, the math is the same. if you had x in cash, would you buy your company ' s stock as an investment? if so, then option 2 is best, because you can get x in stock for a lower cost. ( option 3 might be better if the gain on the stock will be taxed higher, but they ' re pretty much equivalent if there ' s no chance that the stock will drop below y ) if not, then option 4 is best since you will likely get more than x - y from selling the options that by"
+      },
+      {
+        "doc_id": "131488",
+        "chunk_index": 0,
+        "text": "what are my options, if any, in how to deal with a buyout that forced me to sell, and accept cash only for my florida usa company shares? options are limited ;"
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "If you have stock options and the company is bought out in cash only, then option 4 is best since you will likely get more than x - y from selling the options that by [131488#0]"
+  }
+]

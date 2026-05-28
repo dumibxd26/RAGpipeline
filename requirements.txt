@@ -1,0 +1,8 @@
+beir>=2.0.0
+weaviate-client>=4.10,<5
+sentence-transformers>=3.0
+ollama>=0.3
+tqdm
+numpy
+matplotlib
+reportlab

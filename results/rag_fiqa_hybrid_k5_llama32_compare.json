@@ -1,0 +1,191 @@
+[
+  {
+    "query_id": "2395",
+    "question": "Freelance site with lowest commission fees?",
+    "relevant_doc_ids": [
+      "179066"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "158091",
+        "chunk_index": 0,
+        "text": "since you are not starting with a lot of cash the commissions may eat into your account. so go with somebody that has no inactivity fee and low / free commission. i think there are number of sites and the ing sharebuilder. com comes to mind. scottrade also one of the cheaper ones that i used."
+      },
+      {
+        "doc_id": "294517",
+        "chunk_index": 0,
+        "text": "have you looked at optionshouse? they charge $ 2. 95 per trade and are one of the lowest when it comes to fees. bare bones interface, but fast execution."
+      },
+      {
+        "doc_id": "545324",
+        "chunk_index": 0,
+        "text": "been a freelance motion graphic artist for 18 years and i ' ve never touched any of those sites. it ' s idiots and amateurs looking for cheap, shitty labor. i don ' t feel like competing against people in 3rd world countries so i get all my jobs the old fashioned way."
+      },
+      {
+        "doc_id": "409797",
+        "chunk_index": 0,
+        "text": "i don ' t know of any and it is unlikely that you will be able to find one. most credit card processors charge a flat fee plus percentage. the flat fee is typically in the 35 cent range making the cost of doing business, in the manner you are suggesting, astronomical. also what you are suggesting is contrary to best practices as hosting services, and many other industries, offer deep discounts when making a single payment for an extended period of time. this is not very helpful, but i think it is unrealistic to find what you are suggesting."
+      },
+      {
+        "doc_id": "358137",
+        "chunk_index": 1,
+        "text": "want a commission, most of it is eliminated if you know how much you can afford before you meet with them. they will know all the government programs that can make the monthly costs or closing costs cheaper."
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "I don't know based on the provided context."
+  },
+  {
+    "query_id": "10645",
+    "question": "Explain the details and benefits of rebalancing a retirement portfolio?",
+    "relevant_doc_ids": [
+      "22221",
+      "588607"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "36284",
+        "chunk_index": 0,
+        "text": "from vanguard ' s best practices for portfolio rebalancing :"
+      },
+      {
+        "doc_id": "25753",
+        "chunk_index": 1,
+        "text": ", just on a regular interval ( every 3 months, 6 months, or 1 year, whatever interval you are comfortable with ). rebalancing will give you greater gains than a static portfolio, and it can insulate you from losses when the stock market panics occasionally if you choose a conservative allocation."
+      },
+      {
+        "doc_id": "355738",
+        "chunk_index": 0,
+        "text": "\" doesn ' t \" \" no rebalancing \" \" mean \" \" start with a portfolio and let it fly? \" \" seems like incorporation of rebalancing is more sophisticated than not. just \" \" buy \" \" your portfolio at the start and see where it ends up with no buying / selling, as compared with where it ends up if you do rebalance. or is it not that simple? \""
+      },
+      {
+        "doc_id": "377117",
+        "chunk_index": 1,
+        "text": "your desired asset allocation but still have enough to live on. again you will be trying to meet a specific $ figure. of course you may decide at anytime in retirement to rebalance based on changes to your lifestyle, family obligations, or winning the lottery."
+      },
+      {
+        "doc_id": "319182",
+        "chunk_index": 0,
+        "text": "\" i ' m assuming that all the savings are of ' defined contribution ' type, and not ' defined benefit ' as per marktristan ' s comment to the original question. aside from convenience of having all the pension money in one place, which may or may not be something you care about, there may be a benefit associated with being able to rebalance your portfolio when you need do. say you invest your pension pot in a 60 % / 40 % of equities and bonds respectively. due higher risk / reward ratio of the equities part, in the long run equities tend to get ' overweight ' turning your mix into 70 % / 30 % or even 80 % / 20 %, therefore raising your overall exposure to equities. general practice is to rebalance your portfolio every now and then, in this case, by selling some equities and buying more bonds ( \" \" sell high, buy low \" \" ). now if you have few small pockets of pension money, it makes it harder to keep track of the overall asset allocation and actually do the rebalancing as you cannot see and trade everything from one place. \""
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "Rebalancing a retirement portfolio involves adjusting the asset allocation to maintain your desired level while minimizing risk. The goal is to ensure that your portfolio remains aligned with your target asset allocation, which can help you meet specific financial goals, such as living on a certain amount of money in retirement.\n\nAccording to Vanguard's best practices for portfolio rebalancing [36284#0], regular rebalancing can give you greater gains than a static portfolio and insulate you from losses when the stock market panics. This is because rebalancing allows you to adjust your asset allocation in response to changes in market conditions, which can help reduce risk.\n\nThe benefits of rebalancing include:\n\n* Insulating you from losses during market downturns [36284#0]\n* Helping you meet specific financial goals, such as living on a certain amount of money in retirement\n* Reducing risk by adjusting your asset allocation to maintain an optimal balance between equities and bonds\n\nTo achieve these benefits, it's essential to have a clear understanding of your desired asset allocation and be able to rebalance your portfolio regularly. This can be done at regular intervals, such as every 3 months, 6 months, or 1 year [36284#0].\n\nHowever, rebalancing can also present challenges, particularly for individuals with multiple small pockets of pension money. In this case, it may be more difficult to keep track of the overall asset allocation and perform rebalancing [377117#0]. To overcome these challenges, it's essential to have a system in place that allows you to easily monitor and adjust your portfolio.\n\nIn general practice, rebalancing involves selling some equities and buying more bonds (or vice versa) to restore the optimal asset allocation. This approach is often referred to as \"selling high and buying low\" [377117#0]. By regularly rebalancing your retirement portfolio, you can help ensure that it remains aligned with your financial goals and minimizes risk over time."
+  },
+  {
+    "query_id": "4700",
+    "question": "Better to get loan from finance company or bank considering the drop of credit score?",
+    "relevant_doc_ids": [
+      "345137"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "345137",
+        "chunk_index": 0,
+        "text": "if your primary concern is a drop in your credit score, go to a mortgage broker instead of multiple banks and finance companies. each time you ask a bank or financial institution for a loan, they do a hard pull on your credit rating which costs you a couple of points. visit a dozen lenders and you ' ll lose 24 points. you will also be signalling to lenders that you ' re shopping for money. if you visit a mortgage broker he does a single hard pull on your credit score and offers your loan query to a dozen or more lenders, some of which you may not have even heard of. this costs you 2 points instead of 24. if you are only going to visit one financial institution or another specific one, the drop in credit score is the same couple of points. the above answer only applies if you make loan inquiries at multiple institutions."
+      },
+      {
+        "doc_id": "486604",
+        "chunk_index": 0,
+        "text": "apart from the reasons currently given ( which have to do with personal relations ), wouldn ' t a good reason to take the loan from the bank be to build up a credit history and / or improve your credit score?"
+      },
+      {
+        "doc_id": "121414",
+        "chunk_index": 0,
+        "text": "\" the simple answer might just be that the increased credit score you mentioned was enough to suddenly make you eligible for this lenders better rate, so maybe that ' s why you weren ' t able to get that low a rate before. another option i can think of is that this particular bank offers these loans as a \" \" teaser rate \" \" to hopefully get more of your business later on. it ' s not exactly a loss leader i would think, given the non - existing deposit rates they ' re probably still able to make money on the spread but they might be able to undercut other banks enough to get their hooks into you. figuratively speaking, of course. of course in order to evaluate if it ' s worth switching to this deal, you ' ll also have to look at prepayment penalties and fees on your current loan. these extra costs might be enough to make the switch uneconomic. \""
+      },
+      {
+        "doc_id": "85214",
+        "chunk_index": 0,
+        "text": "i ' m the contrarian in the crowd. i think credit scores and debt are the closest thing to evil incarnate. you ' re in good company. the absence of a credit score simply means the agencies have insufficient data in their behavioral model to determine how profitable your business would be to the bank. the higher your score, the more likely the bank is to make a profit from your loan. imho, you ' re better off building up cash and investment reserves than a credit history. with sufficient reserves, you will be able to shop around for a bank that will give you a good rate, if you ever do need a loan. you ' ll be surprised at how quickly you get in a position where you don ' t need a loan if you save and invest wisely. i used to have a ( high ) credit score, and i was miserable about it because there were always bills due. i gave up debt 14 years ago, paid the last debt 7 years ago, and have never. been happier. raising kids without debt ( or credit score ) is much more fun than with debt."
+      },
+      {
+        "doc_id": "229534",
+        "chunk_index": 0,
+        "text": "your credit score, for better or worse, is increasingly about more than just getting loans. for example insurance companies can use it to some extent to determine your rates,."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "I don't know based on the provided context."
+  },
+  {
+    "query_id": "4265",
+    "question": "Does it make any sense to directly contribute to reducing the US national debt?",
+    "relevant_doc_ids": [
+      "140947",
+      "157553",
+      "293111",
+      "349710",
+      "392163",
+      "93881"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "157553",
+        "chunk_index": 0,
+        "text": "no, it makes no sense. the us national debt is different from other debt on two key ways : 1. ) the national debt is not money we owe to our government it is money we owe to ourselves. 2. ) if the gnp of our country can grow at a rate equal to or greater than the national debt interest, then the figure of national debt has no bearing on anything. so a more philanthropic endeavor would be to help grow the economy."
+      },
+      {
+        "doc_id": "431109",
+        "chunk_index": 0,
+        "text": "yes thats true but i think the point is you have to look at it in context - reduced spending will hurt the economy but you also can ' t just spend endlessly on credit cards and bank loans either. the point here is it seems like the whole system has hit a wall in terms of further increasing debt levels. i think that while their analysis is overly simplistic, there is a point here in that we do need to cut the debt down."
+      },
+      {
+        "doc_id": "372283",
+        "chunk_index": 0,
+        "text": "should voters care? what is the scenario in which this debt actually becomes a problem? it seems to me that the money from this debt is largely going into the pockets of us citizens, so less debt would mean less prosperity for americans. what are the arguments against this assumption?"
+      },
+      {
+        "doc_id": "323601",
+        "chunk_index": 7,
+        "text": "people should be polishing databases of * answers * to questions so that every subsequent human being can quickly and easily refer to their answer, and so that we can direct people to the best explanation easily. it ' s possible to adopt some measures that would reduce debt service by reducing public debt, but the public debt has been growing for a long time, and it seems very clear that people are much more willing to take out debt than to cut into * their * favorite concern ( low taxes or lots of services ) in the immediate future. as for reducing debt service via reducing private debt, most of the policy and technological factors that drive private debt seem unlikely to change to me. maybe if we see some sort of cultural change, an aversion to taking out debt with a negative roi, but all of the information i ' m giving here has been public for a long time and people haven ' t changed, so i doubt that we ' ll see any kind of a reversal or social movement against taking out lots of debt. you ' d have to have the equivalent of a [ great awakening ] ( https : / / en. wikipedia. org / wiki / great _ awakening ) with respect to debt... and given that attempts to excite interest in the matter have"
+      },
+      {
+        "doc_id": "267293",
+        "chunk_index": 0,
+        "text": "& gt ; the debt part : http : / / www. brillig. com / debt _ clock / [ 1 ] ( ie closing in on $ 18t ) the us government debt is how much usd the government has paid the us non - government in excess of what it ' s taxed them. correct? do you know another way of putting that? it ' s the us non - government ' s * savings *. so that scary us debt clock, with the big red numbers? consider that from * our * side of the accounting ledger it ' s actually a non - government savings clock, with big green numbers. it ' s just not a bad thing. every year the government pays us more than it taxes us, our savings go up. and it ' s not like the us is going to run out of usd - this is a perfectly sustainable way to growth."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "I don't know based on the provided context."
+  },
+  {
+    "query_id": "3934",
+    "question": "Should market based health insurance premiums be factored into 6 months emergency fund savings?",
+    "relevant_doc_ids": [
+      "122952",
+      "201769",
+      "209604",
+      "457034"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "402438",
+        "chunk_index": 0,
+        "text": "regarding medical insurance premiums - the premiums are only part of the cost. you need to know if you have a deductible, your out of pocket maximum and what co - pays you have. if you take medications on a daily basis you need to account for those costs. some programs allow you to put money aside pre - tax to pay for these known expenses. i would split emergency fund / general savings into two lines. you can set a goal to save x months worth of expenses as an emergency fund, but the general savings will be whatever is left over from the rest of your budget. unless you have a goal for the savings : car, home..."
+      },
+      {
+        "doc_id": "52190",
+        "chunk_index": 0,
+        "text": "how ' s your savings and emergency fund? everyone should have an emergency fund that will last them 6 months, and the goal should be two years ' worth. this should be in an easily accessible account, such as a savings or money market account at your bank ( you could consider cds, but unless you ' re laddering them there will be penalties to get at the money ). once you ' ve got 6 months ' worth saved, the next thing to focus on is a tax advantaged retirement account. only when you ' ve maxed out your contributions ( and the tax benefits ) should you consider other investments. after all, those tax benefits are free money from uncle sam : )"
+      },
+      {
+        "doc_id": "68239",
+        "chunk_index": 0,
+        "text": "the issue is how likely you will have zero income for six months, and what are your monthly expenses. if you know the maximum medical bill you face that may allow you to save a smaller amount. but you still have to protect for that loss of income. the interuption could be because of job loss, medical emergency, or other family crisis. if i told you that the chances you would face a crisis dropped by 50 %, would you decide that the need for an emergency fund went away? or would you still create a fund? i think the need still exists just to avoid the downside if you aren ' t prepared."
+      },
+      {
+        "doc_id": "304804",
+        "chunk_index": 0,
+        "text": "i am understanding the op to mean that this is for an emergency fund savings account meant to cover 3 to 6 months of living expenses, not a 3 - 6 month investment horizon. assuming this is the case, i would recommend keeping these funds in a money market account and not in an investment - grade bond fund for three reasons :"
+      },
+      {
+        "doc_id": "237580",
+        "chunk_index": 0,
+        "text": "i mean a checkings / savings combo is fiscally responsible if you ' re putting a 3 - 6 month emergency fund in there. hell, i ' d argue that you ' d be insanely bad with money not to keep an emergency fund if you got the cash to spare. 401 ( k ), iras, and stocks are great investment vehicles, but having a portion of your funds be liquid is important."
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "I don't know based on the provided context."
+  }
+]

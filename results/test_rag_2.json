@@ -1,0 +1,75 @@
+[
+  {
+    "query_id": "2395",
+    "question": "Freelance site with lowest commission fees?",
+    "relevant_doc_ids": [
+      "179066"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "158091",
+        "chunk_index": 0,
+        "text": "since you are not starting with a lot of cash the commissions may eat into your account. so go with somebody that has no inactivity fee and low / free commission. i think there are number of sites and the ing sharebuilder. com comes to mind. scottrade also one of the cheaper ones that i used."
+      },
+      {
+        "doc_id": "294517",
+        "chunk_index": 0,
+        "text": "have you looked at optionshouse? they charge $ 2. 95 per trade and are one of the lowest when it comes to fees. bare bones interface, but fast execution."
+      },
+      {
+        "doc_id": "409797",
+        "chunk_index": 0,
+        "text": "i don ' t know of any and it is unlikely that you will be able to find one. most credit card processors charge a flat fee plus percentage. the flat fee is typically in the 35 cent range making the cost of doing business, in the manner you are suggesting, astronomical. also what you are suggesting is contrary to best practices as hosting services, and many other industries, offer deep discounts when making a single payment for an extended period of time. this is not very helpful, but i think it is unrealistic to find what you are suggesting."
+      },
+      {
+        "doc_id": "545324",
+        "chunk_index": 0,
+        "text": "been a freelance motion graphic artist for 18 years and i ' ve never touched any of those sites. it ' s idiots and amateurs looking for cheap, shitty labor. i don ' t feel like competing against people in 3rd world countries so i get all my jobs the old fashioned way."
+      },
+      {
+        "doc_id": "358137",
+        "chunk_index": 1,
+        "text": "want a commission, most of it is eliminated if you know how much you can afford before you meet with them. they will know all the government programs that can make the monthly costs or closing costs cheaper."
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "[294517#0] have you looked at optionshouse? they charge $ 2. 95 per trade and are one of the lowest when it comes to fees. bare bones interface, but fast execution. \n[358137#1] want a commission, most of it is eliminated if you know how much you can afford before you meet with them. they will know all the government programs that can make the monthly costs or closing costs cheaper."
+  },
+  {
+    "query_id": "10645",
+    "question": "Explain the details and benefits of rebalancing a retirement portfolio?",
+    "relevant_doc_ids": [
+      "22221",
+      "588607"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "36284",
+        "chunk_index": 0,
+        "text": "from vanguard ' s best practices for portfolio rebalancing :"
+      },
+      {
+        "doc_id": "377117",
+        "chunk_index": 1,
+        "text": "your desired asset allocation but still have enough to live on. again you will be trying to meet a specific $ figure. of course you may decide at anytime in retirement to rebalance based on changes to your lifestyle, family obligations, or winning the lottery."
+      },
+      {
+        "doc_id": "319182",
+        "chunk_index": 0,
+        "text": "\" i ' m assuming that all the savings are of ' defined contribution ' type, and not ' defined benefit ' as per marktristan ' s comment to the original question. aside from convenience of having all the pension money in one place, which may or may not be something you care about, there may be a benefit associated with being able to rebalance your portfolio when you need do. say you invest your pension pot in a 60 % / 40 % of equities and bonds respectively. due higher risk / reward ratio of the equities part, in the long run equities tend to get ' overweight ' turning your mix into 70 % / 30 % or even 80 % / 20 %, therefore raising your overall exposure to equities. general practice is to rebalance your portfolio every now and then, in this case, by selling some equities and buying more bonds ( \" \" sell high, buy low \" \" ). now if you have few small pockets of pension money, it makes it harder to keep track of the overall asset allocation and actually do the rebalancing as you cannot see and trade everything from one place. \""
+      },
+      {
+        "doc_id": "25753",
+        "chunk_index": 1,
+        "text": ", just on a regular interval ( every 3 months, 6 months, or 1 year, whatever interval you are comfortable with ). rebalancing will give you greater gains than a static portfolio, and it can insulate you from losses when the stock market panics occasionally if you choose a conservative allocation."
+      },
+      {
+        "doc_id": "294855",
+        "chunk_index": 0,
+        "text": "\" i separate them out, simply because they ' re for different purposes, with different goals and time - frames, and combining them may mask hidden problems in either the retirement account or the regular account. consider an example : a young investor has been working on their retirement planning for a few years now, and has a modest amount of retirement savings ( say $ 15, 000 ) allocated carefully according to one of the usually recommended schemes. a majority exposure to large cap u. s. stocks, with smaller exposures to small cap, international and bond markets. years before however, they mad an essentially emotional investment in a struggling manufacturer of niche personal computers, which then enjoyed something of a renaissance and a staggering growth in shareholder value. lets say their current holdings in this company now represent $ 50, 000. combining them, their portfolio is dominated by large cap u. s. equities to such an extent that the only way to rebalance their portfolio is to pour money into bonds and the international market for years on end. this utterly changes the risk profile of their retirement account. at the same time, if we switch the account balances, the investor might be reassured that their asset allocation is fine and diversified, even though the assets they have access to before retirement are entirely in"
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "Rebalancing your retirement portfolio involves selling some of your equities and buying more bonds. This helps to keep your asset allocation at the desired level, which can help you achieve greater gains than a static portfolio [25753#1].  It also provides protection against losses during market fluctuations [294855#0]."
+  }
+]

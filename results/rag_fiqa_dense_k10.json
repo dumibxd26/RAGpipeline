@@ -1,0 +1,630 @@
+[
+  {
+    "query_id": "2395",
+    "question": "Freelance site with lowest commission fees?",
+    "relevant_doc_ids": [
+      "179066"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "158091",
+        "chunk_index": 0,
+        "text": "since you are not starting with a lot of cash the commissions may eat into your account. so go with somebody that has no inactivity fee and low / free commission. i think there are number of sites and the ing sharebuilder. com comes to mind. scottrade also one of the cheaper ones that i used."
+      },
+      {
+        "doc_id": "294517",
+        "chunk_index": 0,
+        "text": "have you looked at optionshouse? they charge $ 2. 95 per trade and are one of the lowest when it comes to fees. bare bones interface, but fast execution."
+      },
+      {
+        "doc_id": "409797",
+        "chunk_index": 0,
+        "text": "i don ' t know of any and it is unlikely that you will be able to find one. most credit card processors charge a flat fee plus percentage. the flat fee is typically in the 35 cent range making the cost of doing business, in the manner you are suggesting, astronomical. also what you are suggesting is contrary to best practices as hosting services, and many other industries, offer deep discounts when making a single payment for an extended period of time. this is not very helpful, but i think it is unrealistic to find what you are suggesting."
+      },
+      {
+        "doc_id": "545324",
+        "chunk_index": 0,
+        "text": "been a freelance motion graphic artist for 18 years and i ' ve never touched any of those sites. it ' s idiots and amateurs looking for cheap, shitty labor. i don ' t feel like competing against people in 3rd world countries so i get all my jobs the old fashioned way."
+      },
+      {
+        "doc_id": "358137",
+        "chunk_index": 1,
+        "text": "want a commission, most of it is eliminated if you know how much you can afford before you meet with them. they will know all the government programs that can make the monthly costs or closing costs cheaper."
+      },
+      {
+        "doc_id": "591323",
+        "chunk_index": 1,
+        "text": "can be seen as a \" \" hidden \" \" fee when it ' s unreasonably low. i ' m not affiliated with or accommodated by any of the exchange services mentioned. \""
+      },
+      {
+        "doc_id": "30524",
+        "chunk_index": 0,
+        "text": "your cost of platform is built into your commission rates... sc is free if i sign up to a broker that charges more commissions. right now i am with ib as my broker. with the cost of my charting, if i were to make 10 round turns per month, i would pay $ 4. 50 per side commission on forex, $ 3. 25 per side on equities. still a better deal than tos."
+      },
+      {
+        "doc_id": "582908",
+        "chunk_index": 1,
+        "text": "are unbelievable and that $ 5. 95, $ 7. 95, or even $ 9. 95 are considered low fees. i ' ve heard this so much, and discussed commissions with enough people who ' ve refused to switch brokers, that i conclude there just isn ' t enough competition to drive prices lower. if most people won ' t switch brokers to go from $ 9. 95 to $ 1 per trade, there simply isn ' t a reason to lower rates."
+      },
+      {
+        "doc_id": "597699",
+        "chunk_index": 0,
+        "text": "i think your best bet would be commission - free etfs, which have no minimum and many have a share price under $ 100. most online brokerages have these now, e. g. vanguard, fidelity, etc. just have to watch out for any non - trading fees brokerages may charge with a low balance."
+      },
+      {
+        "doc_id": "304276",
+        "chunk_index": 1,
+        "text": "\" \", but that ' s not universal. however, while commissions are important, with discount brokers, you ' ll find the percent you ' re paying for commissions is minimal, which losses due to slippage and poor execution can swamp. \""
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "[294517#0] have you looked at optionshouse? they charge $ 2. 95 per trade and are one of the lowest when it comes to fees. bare bones interface, but fast execution."
+  },
+  {
+    "query_id": "10645",
+    "question": "Explain the details and benefits of rebalancing a retirement portfolio?",
+    "relevant_doc_ids": [
+      "22221",
+      "588607"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "36284",
+        "chunk_index": 0,
+        "text": "from vanguard ' s best practices for portfolio rebalancing :"
+      },
+      {
+        "doc_id": "377117",
+        "chunk_index": 1,
+        "text": "your desired asset allocation but still have enough to live on. again you will be trying to meet a specific $ figure. of course you may decide at anytime in retirement to rebalance based on changes to your lifestyle, family obligations, or winning the lottery."
+      },
+      {
+        "doc_id": "319182",
+        "chunk_index": 0,
+        "text": "\" i ' m assuming that all the savings are of ' defined contribution ' type, and not ' defined benefit ' as per marktristan ' s comment to the original question. aside from convenience of having all the pension money in one place, which may or may not be something you care about, there may be a benefit associated with being able to rebalance your portfolio when you need do. say you invest your pension pot in a 60 % / 40 % of equities and bonds respectively. due higher risk / reward ratio of the equities part, in the long run equities tend to get ' overweight ' turning your mix into 70 % / 30 % or even 80 % / 20 %, therefore raising your overall exposure to equities. general practice is to rebalance your portfolio every now and then, in this case, by selling some equities and buying more bonds ( \" \" sell high, buy low \" \" ). now if you have few small pockets of pension money, it makes it harder to keep track of the overall asset allocation and actually do the rebalancing as you cannot see and trade everything from one place. \""
+      },
+      {
+        "doc_id": "25753",
+        "chunk_index": 1,
+        "text": ", just on a regular interval ( every 3 months, 6 months, or 1 year, whatever interval you are comfortable with ). rebalancing will give you greater gains than a static portfolio, and it can insulate you from losses when the stock market panics occasionally if you choose a conservative allocation."
+      },
+      {
+        "doc_id": "294855",
+        "chunk_index": 0,
+        "text": "\" i separate them out, simply because they ' re for different purposes, with different goals and time - frames, and combining them may mask hidden problems in either the retirement account or the regular account. consider an example : a young investor has been working on their retirement planning for a few years now, and has a modest amount of retirement savings ( say $ 15, 000 ) allocated carefully according to one of the usually recommended schemes. a majority exposure to large cap u. s. stocks, with smaller exposures to small cap, international and bond markets. years before however, they mad an essentially emotional investment in a struggling manufacturer of niche personal computers, which then enjoyed something of a renaissance and a staggering growth in shareholder value. lets say their current holdings in this company now represent $ 50, 000. combining them, their portfolio is dominated by large cap u. s. equities to such an extent that the only way to rebalance their portfolio is to pour money into bonds and the international market for years on end. this utterly changes the risk profile of their retirement account. at the same time, if we switch the account balances, the investor might be reassured that their asset allocation is fine and diversified, even though the assets they have access to before retirement are entirely in"
+      },
+      {
+        "doc_id": "206285",
+        "chunk_index": 2,
+        "text": "is an account that you put money into. just because the money is sitting in the account doesn ' t necessarily mean it is invested. you put the money into this account, and then you use this money for investments. how you invest the retirement money is a topic unto itself. here is a good starting point. if you want to ask questions about retirement portfolios, it is probably worth posting a new question. \""
+      },
+      {
+        "doc_id": "355738",
+        "chunk_index": 0,
+        "text": "\" doesn ' t \" \" no rebalancing \" \" mean \" \" start with a portfolio and let it fly? \" \" seems like incorporation of rebalancing is more sophisticated than not. just \" \" buy \" \" your portfolio at the start and see where it ends up with no buying / selling, as compared with where it ends up if you do rebalance. or is it not that simple? \""
+      },
+      {
+        "doc_id": "546150",
+        "chunk_index": 2,
+        "text": "the market. if you know how to trade in bear market compared to bull market, then you are good at managing your investments. when i started contributing to my employer ' s deferred comp account ( 457b ) as a public employee, i have no idea of how my portfolio works. year after year as i looked at my investment, i was happy because it continued to grow. without scrutinizing how much it grew yearly, and my regular payroll contribution, i am happy even it only grew 2 % per year. and at this age that i am ready to retire at 60, i started taking investment classes and attended pre - retirement seminars. then i knew that it was not totally a good decision to leave your retirement funds in the hands of the portfolio manager since they don ' t really care if it tanked out on some years as long at overall it grew to a meager 1 % - 4 % because they managers are pretty conservative on picking the equities they invest. you can generalize that maybe 90 % of ira investors don ' t know about investing and have poor decision making actions which securities / etf to buy and hold. for those who would like to remain as one, that is fine. but for those who spent time and"
+      },
+      {
+        "doc_id": "269169",
+        "chunk_index": 0,
+        "text": "\" an asset allocation formula is useful because it provides a way to manage risk. rebalancing preserves your asset allocation. the investment risk of a well - diversified portfolio ( with a few etfs or mutual funds in there to get a wide range of stocks, bonds, and international exposure ) is mostly proportional to the asset class distribution. if you started out with half - stocks and half - bonds, and stocks surged 100 % over the past few years while bonds have stayed flat, then you may be left with ( say ) 66 % stocks and 33 % bonds. your portfolio is now more vulnerable to future stock market drops ( the risk associated with stocks ). ( most asset allocation recommendations are a little more specific than a stock / bond split, but i ' m sure you can get the idea. ) rebalancing can be profitable because it ' s a formulaic way to enforce you to \" \" buy low, sell high \" \". massive recessions notwithstanding, usually not everything in your portfolio will rise and fall at the same time, and some are actually negatively correlated ( that ' s one idea behind diversification, anyway ). if your stocks have surged, chances are that bonds are cheaper. this doesn ' t always work ( repeatedly transferring money from bonds into"
+      },
+      {
+        "doc_id": "588607",
+        "chunk_index": 0,
+        "text": "\" rebalancing a portfolio helps you reduce risk, sell high, and buy low. i ' ll use international stocks and large cap us stocks. they both have ups and downs, and they don ' t always track with each other ( international might be up while large cap us stocks are down and vice - versa ) if you started with 50 % international and 50 % large cap stocks and 1 year later you have 75 % international and 25 % large cap stocks that means that international stocks are doing ( relatively ) well to large cap stocks. comparing only those two categories, large cap stocks are \" \" on sale \" \" relative to international stocks. now move so you have 50 % in each category and you ' ve realized some of the gains from your international investment ( sell high ) and added to your large cap stocks ( buy low ). the reason to rebalance is to lower risk. you are spreading your investments across multiple categories to manage risk. if you don ' t rebalance, you could end up with 95 % in one category and 5 % in another which means 95 % of your portfolio is tied to the performance of a single asset category. i try to rebalance every 12 months and usually get it done by every 18 months. i like being a hands -"
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "Rebalancing a retirement portfolio helps reduce risk, sell high, and buy low. [588607#0]  It involves spreading your investments across multiple asset categories to manage risk. If you don't rebalance, you could end up with 95% in one category and 5% in another which means 95% of your portfolio is tied to the performance of a single asset category. [588607#0]  \n\nHere's how it works:\n\n* **Example:** You start with a 50/50 split between international stocks and large-cap US stocks. Over time, one might outperform the other. If international stocks surge in value while large-cap US stocks decline, your portfolio shifts to be more heavily weighted towards international stocks. [588607#0]\n* **Benefits:** Rebalancing can help you take advantage of buying opportunities when assets are undervalued and selling high when assets are overvalued. This helps mitigate risk and potentially improve returns over time.  [588607#0] \n\nRebalancing is a formulaic way to enforce \"buy low, sell high\" strategy. [588607#0] It's important to rebalance your portfolio regularly, such as every 12 months or so, to maintain the desired asset allocation and manage risk.  [588607#0]"
+  },
+  {
+    "query_id": "4700",
+    "question": "Better to get loan from finance company or bank considering the drop of credit score?",
+    "relevant_doc_ids": [
+      "345137"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "345137",
+        "chunk_index": 0,
+        "text": "if your primary concern is a drop in your credit score, go to a mortgage broker instead of multiple banks and finance companies. each time you ask a bank or financial institution for a loan, they do a hard pull on your credit rating which costs you a couple of points. visit a dozen lenders and you ' ll lose 24 points. you will also be signalling to lenders that you ' re shopping for money. if you visit a mortgage broker he does a single hard pull on your credit score and offers your loan query to a dozen or more lenders, some of which you may not have even heard of. this costs you 2 points instead of 24. if you are only going to visit one financial institution or another specific one, the drop in credit score is the same couple of points. the above answer only applies if you make loan inquiries at multiple institutions."
+      },
+      {
+        "doc_id": "121414",
+        "chunk_index": 0,
+        "text": "\" the simple answer might just be that the increased credit score you mentioned was enough to suddenly make you eligible for this lenders better rate, so maybe that ' s why you weren ' t able to get that low a rate before. another option i can think of is that this particular bank offers these loans as a \" \" teaser rate \" \" to hopefully get more of your business later on. it ' s not exactly a loss leader i would think, given the non - existing deposit rates they ' re probably still able to make money on the spread but they might be able to undercut other banks enough to get their hooks into you. figuratively speaking, of course. of course in order to evaluate if it ' s worth switching to this deal, you ' ll also have to look at prepayment penalties and fees on your current loan. these extra costs might be enough to make the switch uneconomic. \""
+      },
+      {
+        "doc_id": "486604",
+        "chunk_index": 0,
+        "text": "apart from the reasons currently given ( which have to do with personal relations ), wouldn ' t a good reason to take the loan from the bank be to build up a credit history and / or improve your credit score?"
+      },
+      {
+        "doc_id": "229534",
+        "chunk_index": 0,
+        "text": "your credit score, for better or worse, is increasingly about more than just getting loans. for example insurance companies can use it to some extent to determine your rates,."
+      },
+      {
+        "doc_id": "3466",
+        "chunk_index": 0,
+        "text": "you must consider the different levels of risk associated with each loan. when the bank loans you money, it does so based on a high degree of information about your financial situation ( through your credit report + additional information gathered at the time of granting your request ). it feels quite confident that you will repay them, and therefore considers you to be low risk. in order to make a profit off of all its low risk clients, the bank only needs to charge a small rate of interest - competitive with the market but enough to cover the losses from clients who will default. when you loan money through a peer - to - peer program, you are at two distinct disadvantages from the bank : ( 1 ) your loan portfolio will not be diversified ; that is, you may have only a single person or a small handful of people owing you money. any catastrophic event in their lives may wipe out their loan to you. whereas the bank can play the averages with a broader client base. ( 2 ) you have less information, and ultimately less ( effective ) power to reclaim your losses. would you feel confident walking behind the desk at a bank today, and deciding whether to approve someone ' s loan based on the information that the bank ' s back - end has already determined is necessary to make"
+      },
+      {
+        "doc_id": "340287",
+        "chunk_index": 0,
+        "text": "\" with that credit rating you should have no trouble getting a rate in that range. i have a similar credit score and my credit union gave me a car loan at 1. 59 %. no haggling required. in regards to your question, i think you have it backwards. they are more likely to give you a good rate on a high balance than a low one. think about it from the bank ' s perspective... \" \" if i give you a small sale, will you give me a discount? \" \" this is the question you are asking. their profit is a factor of how much you borrow and the interest rate. low rate = less profit, low financing amount = less profit. the deal you proposed is a lose - lose for them. \""
+      },
+      {
+        "doc_id": "452562",
+        "chunk_index": 0,
+        "text": "it depends on your equity ( assets - liabilities ). if you have a lot of equity, banks will be happy to lend you money because they now they can always seize your assets. if you don ' t have a lot of equity another option is to go to hard money lenders. they charge high rates and some of them lend - to - own, but is an option. and consider what pete said, you might be a little optimistic."
+      },
+      {
+        "doc_id": "205163",
+        "chunk_index": 1,
+        "text": "like jp morgan, bank of ny etc... as credit quality decreases the rate at which they borrow increases. currently skandinavien, german, french banks have relatively good credit and borrow overnight money towards the lower part of the fed funds range. italian, spanish and smaller regional us banks have lesser credit quality and borrow at the higher end of the fed funds range. institutions with lower credit quality would borrow at still higher rates. \""
+      },
+      {
+        "doc_id": "91201",
+        "chunk_index": 0,
+        "text": "in this example you are providing 4x more collateral than you are borrowing. credit score shouldn ' t matter, regardless of how risky a borrower you are. sure it costs time and money to go to auction, but this can be factored into your interest rate / fees. i don ' t see how the bank can lose."
+      },
+      {
+        "doc_id": "179494",
+        "chunk_index": 0,
+        "text": "you ' re never going to get really low interest for an unsecured loan ( i. e. without collateral ), but if your credit score is excellent, then most banks should give you a decent rate for a personal line of credit. you could inquire at several banks to compare offers. here in germany there are also websites that will do such a comparison for you."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "[345137#0]  If you're concerned about your credit score dropping, it's better to go to a mortgage broker than multiple banks and finance companies. [345137#0] A single hard pull from a mortgage broker costs 2 points, while multiple inquiries can cost up to 24 points. [345137#0]  If you only visit one financial institution or another specific one, the drop in credit score is the same couple of points. [345137#0]"
+  },
+  {
+    "query_id": "4265",
+    "question": "Does it make any sense to directly contribute to reducing the US national debt?",
+    "relevant_doc_ids": [
+      "140947",
+      "157553",
+      "293111",
+      "349710",
+      "392163",
+      "93881"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "157553",
+        "chunk_index": 0,
+        "text": "no, it makes no sense. the us national debt is different from other debt on two key ways : 1. ) the national debt is not money we owe to our government it is money we owe to ourselves. 2. ) if the gnp of our country can grow at a rate equal to or greater than the national debt interest, then the figure of national debt has no bearing on anything. so a more philanthropic endeavor would be to help grow the economy."
+      },
+      {
+        "doc_id": "431109",
+        "chunk_index": 0,
+        "text": "yes thats true but i think the point is you have to look at it in context - reduced spending will hurt the economy but you also can ' t just spend endlessly on credit cards and bank loans either. the point here is it seems like the whole system has hit a wall in terms of further increasing debt levels. i think that while their analysis is overly simplistic, there is a point here in that we do need to cut the debt down."
+      },
+      {
+        "doc_id": "372283",
+        "chunk_index": 0,
+        "text": "should voters care? what is the scenario in which this debt actually becomes a problem? it seems to me that the money from this debt is largely going into the pockets of us citizens, so less debt would mean less prosperity for americans. what are the arguments against this assumption?"
+      },
+      {
+        "doc_id": "323601",
+        "chunk_index": 7,
+        "text": "people should be polishing databases of * answers * to questions so that every subsequent human being can quickly and easily refer to their answer, and so that we can direct people to the best explanation easily. it ' s possible to adopt some measures that would reduce debt service by reducing public debt, but the public debt has been growing for a long time, and it seems very clear that people are much more willing to take out debt than to cut into * their * favorite concern ( low taxes or lots of services ) in the immediate future. as for reducing debt service via reducing private debt, most of the policy and technological factors that drive private debt seem unlikely to change to me. maybe if we see some sort of cultural change, an aversion to taking out debt with a negative roi, but all of the information i ' m giving here has been public for a long time and people haven ' t changed, so i doubt that we ' ll see any kind of a reversal or social movement against taking out lots of debt. you ' d have to have the equivalent of a [ great awakening ] ( https : / / en. wikipedia. org / wiki / great _ awakening ) with respect to debt... and given that attempts to excite interest in the matter have"
+      },
+      {
+        "doc_id": "267293",
+        "chunk_index": 0,
+        "text": "& gt ; the debt part : http : / / www. brillig. com / debt _ clock / [ 1 ] ( ie closing in on $ 18t ) the us government debt is how much usd the government has paid the us non - government in excess of what it ' s taxed them. correct? do you know another way of putting that? it ' s the us non - government ' s * savings *. so that scary us debt clock, with the big red numbers? consider that from * our * side of the accounting ledger it ' s actually a non - government savings clock, with big green numbers. it ' s just not a bad thing. every year the government pays us more than it taxes us, our savings go up. and it ' s not like the us is going to run out of usd - this is a perfectly sustainable way to growth."
+      },
+      {
+        "doc_id": "287783",
+        "chunk_index": 0,
+        "text": "& gt ; cbo and jct estimate that, over the 2017 - 2026 period, enacting this legislation would reduce direct spending by $ 1, 022 billion and reduce revenues by $ 701 billion, for a net reduction of $ 321 billion in the deficit over that period ( see table 1, at the end of this document ) : https : / / www. cbo. gov / publication / 52849"
+      },
+      {
+        "doc_id": "534618",
+        "chunk_index": 0,
+        "text": "it just occured to me that the larger the debt the easier it is for the fed to strangle the economy, concentrate wealth even more, and choke off government spending on things other than debt service. it is a huge problem that the us government appears to be in a permanent structural deficit that gets bigger both during expansions and contractions."
+      },
+      {
+        "doc_id": "584147",
+        "chunk_index": 0,
+        "text": "the author notes how high the current us debt is, about $ 15. 7 trillion dollars. ( that ' s 15, 700, 000, 000, 000 ). in 2011, the entire us gdp was just over $ 15t. you can research and find that many feel this ratio i. e. debt to gdp is a significant factor in a country ' s ability to pay its debt. we are still running a deficit this year, and the author points out that given these factors, he ' d expect investors in us bonds to demand a higher return for their risk. on a lighter note, we ' ve been watching our debt for decades. i am near 50, and remember seeing the debt clock when i was a teen. it ' s on a building in manhattan on 44th street just west of 6th avenue. it ' s wasn ' t until the early 80 ' s that our debt went over $ 1trillion for the first time, and the clock itself needed to have more digits added to its structure. $ 999 billion was its limit."
+      },
+      {
+        "doc_id": "281724",
+        "chunk_index": 0,
+        "text": "i don ' t know, they focus solely on debt as if it ' s the reason for the recession. and then they say we should reduce spending and raise taxes, as if that would really help the economy. at least they acknowledge that it would have to happen gradually, but they act like any and all debt is terrible. plus, you know, it ' s business insider asking us to put aside politics, which is pretty funny."
+      },
+      {
+        "doc_id": "355636",
+        "chunk_index": 0,
+        "text": "it would help the economy tremendously. even better, the us govt should give households massive amounts of money, to pay off debts. and if they dont have debts they should go spend that money in the economy. that type of economic stimulous would generate more revenue and taxes for govt to help pay off the us govt debt it accrues by printing money."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "[355636#0]  it would help the economy tremendously. even better, the us govt should give households massive amounts of money, to pay off debts. and if they dont have debts they should go spend that money in the economy. that type of economic stimulous would generate more revenue and taxes for govt to help pay off the us govt debt it accrues by printing money."
+  },
+  {
+    "query_id": "3934",
+    "question": "Should market based health insurance premiums be factored into 6 months emergency fund savings?",
+    "relevant_doc_ids": [
+      "122952",
+      "201769",
+      "209604",
+      "457034"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "402438",
+        "chunk_index": 0,
+        "text": "regarding medical insurance premiums - the premiums are only part of the cost. you need to know if you have a deductible, your out of pocket maximum and what co - pays you have. if you take medications on a daily basis you need to account for those costs. some programs allow you to put money aside pre - tax to pay for these known expenses. i would split emergency fund / general savings into two lines. you can set a goal to save x months worth of expenses as an emergency fund, but the general savings will be whatever is left over from the rest of your budget. unless you have a goal for the savings : car, home..."
+      },
+      {
+        "doc_id": "68239",
+        "chunk_index": 0,
+        "text": "the issue is how likely you will have zero income for six months, and what are your monthly expenses. if you know the maximum medical bill you face that may allow you to save a smaller amount. but you still have to protect for that loss of income. the interuption could be because of job loss, medical emergency, or other family crisis. if i told you that the chances you would face a crisis dropped by 50 %, would you decide that the need for an emergency fund went away? or would you still create a fund? i think the need still exists just to avoid the downside if you aren ' t prepared."
+      },
+      {
+        "doc_id": "201769",
+        "chunk_index": 0,
+        "text": "yes, it should be. as, where one has insurance, its an expense one would expect one to continue to incur in a normal budgetary emergency, even drop in the extreme."
+      },
+      {
+        "doc_id": "147243",
+        "chunk_index": 6,
+        "text": "6 months down the line that they need to share with other businesses. with \" \" critical \" \" or \" \" catastrophic \" \" care, heath insurance is still a good thing. if you have a big, unforeseen event, then heath insurance is great at helping you avoid that risk. with chronic ( long term ) care, your back in the same boat as the flu. often times you can get better, and cheaper, care as a self pay patent, then as a insured patent. that is not always the case however. so you have to measure your own circumstance, and decide if insurance is right for you. but remember insurance is about risk avoidance, and not about paying less. you will always pay more for insurance. it ' s designed that way. even if the cost is hidden in many ways. ( taxes, spread out over visits, or prescriptions, etc. ) \""
+      },
+      {
+        "doc_id": "237580",
+        "chunk_index": 0,
+        "text": "i mean a checkings / savings combo is fiscally responsible if you ' re putting a 3 - 6 month emergency fund in there. hell, i ' d argue that you ' d be insanely bad with money not to keep an emergency fund if you got the cash to spare. 401 ( k ), iras, and stocks are great investment vehicles, but having a portion of your funds be liquid is important."
+      },
+      {
+        "doc_id": "457034",
+        "chunk_index": 0,
+        "text": "\" yes, you should budget some amount of your emergency fund for healthcare expenses. how much you budget is really dependent on your particular anticipated costs. be aware that health insurance likely costs significantly more than your employer charges you for access to its plan. since healthcare reform mandated guaranteed issue individual coverage you will have the ability to buy individual coverage for you and, if applicable, your family. when buying individual coverage you have essentially two choices, your decision hinges on whether or not you ' d qualify for a premium subsidy. if your agi is below 400 % of the poverty line you ' ll be able to receive subsidized coverage at a state or federal health insurance exchange. if the subsidy is not meaningful to you, or you wouldn ' t qualify, you can buy an \" \" off exchange \" \" plan offered either directly through a carrier or an insurance agent ( some insurance agents are also licensed to sell exchange plans though it ' s somewhat rare ). in order to receive subsidized coverage you must buy through a state or federal exchange, or an agent licensed to sell exchange products specifically. if your employer was large enough to be required to offer its plan via cobra or you live in a state that extends the cobra requirement to smaller businesses, you can choose that as well"
+      },
+      {
+        "doc_id": "52190",
+        "chunk_index": 0,
+        "text": "how ' s your savings and emergency fund? everyone should have an emergency fund that will last them 6 months, and the goal should be two years ' worth. this should be in an easily accessible account, such as a savings or money market account at your bank ( you could consider cds, but unless you ' re laddering them there will be penalties to get at the money ). once you ' ve got 6 months ' worth saved, the next thing to focus on is a tax advantaged retirement account. only when you ' ve maxed out your contributions ( and the tax benefits ) should you consider other investments. after all, those tax benefits are free money from uncle sam : )"
+      },
+      {
+        "doc_id": "111054",
+        "chunk_index": 0,
+        "text": "\" between 6 months and a year is normally regarded as the \" \" standard \" \". plan out what your monthly expenses are and save that money away. one thing to consider is what extras can you give up. if you are currently eating steak and lobster every day can you live with switching to ramen noodles for a period of time? can you switch from premium cable to basic cable ( or cancel it altogether )? questions like this can greatly impact the amount you have to set aside. i personally have my emergency fund in cds that mature the first of every month. i know there is less liquidity in this approach but i ' m ok with that. my emergency fund is a sum of cash i ' ll always have so i wanted to reap the benefits of a higher yield. if it comes down to it i can place an expense on a credit card and pay off the credit card when funds become available. \""
+      },
+      {
+        "doc_id": "304804",
+        "chunk_index": 0,
+        "text": "i am understanding the op to mean that this is for an emergency fund savings account meant to cover 3 to 6 months of living expenses, not a 3 - 6 month investment horizon. assuming this is the case, i would recommend keeping these funds in a money market account and not in an investment - grade bond fund for three reasons :"
+      },
+      {
+        "doc_id": "418910",
+        "chunk_index": 0,
+        "text": "& gt ; starting in 2014, the hiring of a company ' s 50th worker will cost an extra $ 40, 000 per year. assuming 19 employees * do not have qualifying coverage * ( fta the first 30 are exempt ) & gt ; this is one reason the unemployment rate is still above 8 percent three years after the end of the recession. employers plan ahead. reaching. & gt ; $ 750 a year, is too small relative to the cost of health care coverage - - about $ 5, 500 a year. because insurance companies are required to take all applicants, healthy people ( especially the young ) would be wise to pay the penalty rather than buy the insurance. this makes the pool of insured individuals sicker and more costly, on average, and their premiums will higher. with higher premiums, more people will choose to pay the penalty, and a downward spiral will unfold. an assumption that no healthy person wants to pay for insurance means the whole system will fall apart? a lot of broad assumptions, although it is an oped."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "[418910#0] & gt ; starting in 2014, the hiring of a company ' s 50th worker will cost an extra $ 40, 000 per year. assuming 19 employees * do not have qualifying coverage * ( fta the first 30 are exempt ) & gt ; this is one reason the unemployment rate is still above 8 percent three years after the end of the recession. employers plan ahead. reaching. & gt ; $ 750 a year, is too small relative to the cost of health care coverage - - about $ 5, 500 a year. because insurance companies are required to take all applicants, healthy people ( especially the young ) would be wise to pay the penalty rather than buy the insurance. this makes the pool of insured individuals sicker and more costly, on average, and their premiums will higher. with higher premiums, more people will choose to pay the penalty, and a downward spiral will unfold. an assumption that no healthy person wants to pay for insurance means the whole system will fall apart? a lot of broad assumptions, although it is an oped. \n\n\n[457034#0] \" yes, you should budget some amount of your emergency fund for healthcare expenses. how much you budget is really dependent on your particular anticipated costs. be aware that health insurance likely costs significantly more than your employer charges you for access to its plan. since healthcare reform mandated guaranteed issue individual coverage you will have the ability to buy individual coverage for you and, if applicable, your family. when buying individual coverage you have essentially two choices, your decision hinges on whether or not you ' d qualify for a premium subsidy. if your agi is below 400 % of the poverty line you ' ll be able to receive subsidized coverage at a state or federal health insurance exchange. if the subsidy is not meaningful to you, or you wouldn ' t qualify, you can buy an \" \" off exchange \" \" plan offered either directly through a carrier or an insurance agent ( some insurance agents are also licensed to sell exchange plans though it ' s somewhat rare ). in order to receive subsidized coverage you must buy through a state or federal exchange, or an agent licensed to sell exchange products specifically. if your employer was large enough to be required to offer its plan via cobra or you live in a state that extends the cobra requirement to smaller businesses, you can choose that as well \n\n\n[111054#0] \" between 6 months and a year is normally regarded as the \" \" standard \" \". plan out what your monthly expenses are and save that money away. one thing to consider is what extras can you give up. if you are currently eating steak and lobster every day can you live with switching to ramen noodles for a period of time? can you switch from premium cable to basic cable ( or cancel it altogether )? questions like this can greatly impact the amount you have to set aside. i personally have my emergency fund in cds that mature the first of every month. i know there is less liquidity in this approach but i ' m ok with that. my emergency fund is a sum of cash i ' ll always have so i wanted to reap the benefits of a higher yield. if it comes down to it i can place an expense on a credit card and pay off the credit card when funds become available. \n\n[304804#0] i am understanding the op to mean that this is for an emergency fund savings account meant to cover 3 to 6 months of living expenses, not a 3 - 6 month investment horizon. assuming this is the case, i would recommend keeping these funds in a money market account and not in an investment - grade bond fund for three reasons :\n\n\n\n**Answer:**  Yes, you should factor in market-based health insurance premiums when calculating your emergency fund savings. [457034#0]"
+  },
+  {
+    "query_id": "2676",
+    "question": "Tax question about selling a car",
+    "relevant_doc_ids": [
+      "55666"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "581380",
+        "chunk_index": 0,
+        "text": "you continue with this form. the fact that the trade in value is less than market value doesn ' t mean that you don ' t have taxable income from the sale. since you depreciated the car before selling it, you need to compare the trade in value not to the market value, but to your cost basis, which may be lower."
+      },
+      {
+        "doc_id": "460530",
+        "chunk_index": 0,
+        "text": "to focus on your question.. pay it off then trade in. the reason is because say you just have 14k laying around and buy a car for 14k, you must pay 14k plus tax. if you are in one of the states that allows the tax break, then trading the 14k valued vehicle in for a 14k vehicle will nullify your sales tax. as per your question, if you traded the car in at 7k, you would then owe 7k plus tax. you only have 7k.. so how would you pay for the tax and why would you want to? pay off the car and you ' ll have 14k of tax free off any car."
+      },
+      {
+        "doc_id": "495281",
+        "chunk_index": 0,
+        "text": "also, depending where you buy the car in the us, you have to pay property tax every year for just having purchased the car."
+      },
+      {
+        "doc_id": "55666",
+        "chunk_index": 1,
+        "text": "do sell it, the sales tax on this new transaction will be the buyer ' s responsibility, not yours. you do have the option on your federal income tax return to deduct the state sales tax you paid when you bought the car ; in fact, you can deduct all the sales taxes you paid in that year. ( if you have already filed your taxes for that year, you can go back and amend them. ) however, this takes the place of your state income tax deduction for the year ; you can ' t deduct both. see tax topic 503. so this is only useful if your sales taxes for that year exceeded the state income tax you paid in that year. also, note that state taxes are not deductible on your state income tax return. again, this deduction applies whether you sell the car or not."
+      },
+      {
+        "doc_id": "101557",
+        "chunk_index": 1,
+        "text": "above and beyond the fair value of the car. ( that is, if the car is worth $ 10000 but she sells it to you for $ 8500, she effectively gave you a gift of $ 1500 in car value. if it ' s worth $ 7000 but she sells it to you for $ 8500, you gave her a gift of $ 1500 in cash. ) as rocky pointed out in a comment, if you do a sale it may be subject to sales tax depending on what state you ' re in. in practice it is very common for people to not deal with sales tax in informal transactions like this between family members, but you do owe it if your state ' s laws require it, and the state could theoretically come after you for it. another edit : i see from your comment you are in michigan. according to this page from the michigan secretary of state, \" \" no tax is due if you purchase a vehicle from an immediate family member \" \". so you would not owe sales tax if you do it as a sale. \""
+      },
+      {
+        "doc_id": "55666",
+        "chunk_index": 0,
+        "text": "i don ' t think there ' s much you can do. losses from the sale of personal - use automobiles ( used for pleasure, commuting, etc ) are not deductible as capital losses. see irs tax topic 409, end of the first paragraph. the expenses you incurred in owning and operating the car ( insurance, fuel, maintenance, service plans, etc ) are not deductible either. if you used it partly for business, then some of your expenses might be deductible ; see irs tax topic 510. this includes depreciation ( decline in value ), but only according to a standard schedule ; you don ' t generally just get to deduct the difference between your buying and selling price. also, you ' d need to have records to verify your business use. but anyway, these deductions would apply ( or not ) regardless of whether you sell the car. you don ' t get your sales tax refunded when you resell the vehicle. that ' s why it ' s a sales tax, not a value - added tax. note, however, that if you do sell it, the sales tax on this new transaction will be the buyer ' s responsibility, not yours. you do have the"
+      },
+      {
+        "doc_id": "582922",
+        "chunk_index": 0,
+        "text": "you receive a 1099 - misc for the value of the car. you claim that as income ( even though you received goods rather than cash ). when you sell the car, it would be much like selling any posession, and would cause no tax consequence unless the sale price was much different than the value... when you sell the car, you may have received more or less than the value of the car ( likely less ). if you sold it for more, then you might need to claim the additional money as income ( perhaps short term capital gains ). if you sold it for less, but to a friend or relative, then you might think you could claim a loss, but the tax collector would just claim that you had given them a gift, and attempt to collect the tax from them. contest winners often have the frustration that they are taxed at the full value of the item ( s ) won, even though they would not value the item at that amount. and contest prizes often do not sell for the full value stated on the 1099, and often for much less. marginal tax rates were higher prior to reagan, and when a contest winner would sell an item for 80 % of the value, they often paid most of the proceeds to taxes"
+      },
+      {
+        "doc_id": "318741",
+        "chunk_index": 0,
+        "text": "\" yes, you ' re correct and yes they will. note that it will be considered as \" \" sale \" \" with gains being taxable income to you. \""
+      },
+      {
+        "doc_id": "97348",
+        "chunk_index": 0,
+        "text": "\" while you ' d need to pay tax if you realized a capital gain on the sale of your car, you generally can ' t deduct any loss arising from the sale of \" \" personal use property \" \". cars are personal use property. refer to canada revenue agency – personal - use property losses. quote : [... ] if you have a capital loss, you usually cannot deduct that loss when you calculate your income for the year. in addition, you cannot use the loss to decrease capital gains on other personal - use property. this is because if a property depreciates through personal use, the resulting loss on its disposition is a personal expense. there are some exceptions. read up at the source links. \""
+      },
+      {
+        "doc_id": "503685",
+        "chunk_index": 0,
+        "text": "the value of the car is only of interest if there is an intention to sell it aqain. i would make the following calculation : this gives you the costs per time period that the car really costs you. now do the same with a new ( used ) car you intend to buy instead of this car. with the new car you also need to add the costs of buying it ( sales price, plus any interests and fees if you finance it ). if the old car costs you less than the new car, keep it, otherwise get the new car."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "If you sell your car for more than its value, you may need to claim the additional money as income (perhaps short-term capital gains). [582922#0]"
+  },
+  {
+    "query_id": "2316",
+    "question": "What exchange rate does El Al use when converting final payment amount to shekels?",
+    "relevant_doc_ids": [
+      "348955",
+      "482343"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "482343",
+        "chunk_index": 0,
+        "text": "\" the rate for \" \" checks and transfers \" \" is set by each bank multiple times during the day based on the market. it is as opposed to the rate for \" \" cash / banknotes \" \", also set by each bank, and the \" \" representative rate \" \" ( שער היציג ) set by the bank of israel. these rates can be found on the websites of most banks. here is bank hapoalim and bank leumi. the question is which bank ' s rate will be used. it might be the bank that issued your card, el al ' s bank, or the credit card company ( ie poalim for isracard or leumi for cal ). you will need to call el al to verify, but since these are market rates, they shouldn ' t be too different. \""
+      },
+      {
+        "doc_id": "439779",
+        "chunk_index": 2,
+        "text": "who will be handling your transaction. amazon will tell you at the checkout what exchange rate they will apply if you are having them convert a bill into your local currency for you. for credit / debit card transactions processed in a different currency than the attached account, you need to look at your specific agreement or contact the bank to see which rate they use for daily transactions ( and where you can obtain these rates ), whether they convert on the day of the transaction vs. the day it posts to your account, and how much they add on ( $ and / or % ) in fees and commission."
+      },
+      {
+        "doc_id": "455577",
+        "chunk_index": 0,
+        "text": "i think you answered yourself. the rate difference is because of the base rates differences, and it ' s not worth moving money around because the rate conversions ( even if the currency rates don ' t fluctuate ) will eat up the difference."
+      },
+      {
+        "doc_id": "463105",
+        "chunk_index": 0,
+        "text": "fx - rate. net offers a audusd exchange rate comparison, which includes paypal : currencyfair $ 1. 14 transferwise $ 2. 29 worldremit $ 3. 50 xendpay $ 3. 71 tranzfers $ 5. 52 ukforex $ 7. 35 skrill $ 15. 13 paypal $ 25. 77 kantox $ 27. 76 http : / / fx - rate. net / currency - transfer /? c _ input = aud & cp _ input = usd"
+      },
+      {
+        "doc_id": "385427",
+        "chunk_index": 0,
+        "text": "in addition to the sell rate on the statement transaction day, currency conversion fees of 0 - 3 % is applied, depending on the card issuing bank."
+      },
+      {
+        "doc_id": "294957",
+        "chunk_index": 0,
+        "text": "the supposed cheapest way to do this is via a website like : https : / / transferwise. com / en they claim to have the best exchange rates compared to banks but i have never used them. if you do use them could you let us know in the comments as to how good they are?"
+      },
+      {
+        "doc_id": "493576",
+        "chunk_index": 0,
+        "text": "there is a way i discovered of finding the current exchange rate before committing to buy, go to send payments, put in your own second email, pay 1gbp as the amount and it will give you the exchange rate and fees in your own currency, in my case euro, before you have to click on send payment"
+      },
+      {
+        "doc_id": "348955",
+        "chunk_index": 0,
+        "text": "in older days the merchants and their merchant banks [ or service providers ] would take funds in their currency. say in this case usd. when the charge hits the issuer bank, the merchant and merchant bank gets there usd and were happy. the user would get charged in local currency shekel in this case. the rate applied by his bank [ and card provider, visa / master also take a cut ] is the standard shelf rate to individuals. when business growing and banking becoming more sophisticated, lots of merchant banks and merchants have created a new business, if you offer shekel to all users then you have lots of shekel that you can convert into usd. so in this model, the merchant makes some more profit from fx spread, the merchant bank makes good money in fx. your bank [ and card network ] loose out. you stand to gain because you potentially get a better rate. all this theory is good. but the rates are moving and its quite difficult to find out if the rates offered directly by ei ai would be better than those offered by your bank. i have no experience in this example, but i have tried this with large shops, buy 2 items one charge in gbp and other in local currency around 2 - 3 times spread over a year. the"
+      },
+      {
+        "doc_id": "256996",
+        "chunk_index": 0,
+        "text": "you will most likely not be able to avoid some form of format conversion, regardless of which data you use since there is, afaik, no standard for this data and everyone exports it differently. one viable option would be, like you said yourself, using the free data provided by dukascopy. please take into consideration that those are spot currency rates and will most likely not represent the rate at which physical and business - related exchange would have happened at this time."
+      },
+      {
+        "doc_id": "367185",
+        "chunk_index": 0,
+        "text": "for those who are interested, i am answering my own question : we used postbank and transferred 6000 euro, we chose to transfer in us $, and selected shared fees. there were three fees in total : all in all, i paid ~ 37 $ ; this is about half of what i expected ; and i got a perfect exchange rate. postbank might have its downsides, but it seems they are still a good deal."
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "I don't know based on the provided context. [482343#0]"
+  },
+  {
+    "query_id": "8475",
+    "question": "Why I cannot find a “Pure Cash” option in 401k investments?",
+    "relevant_doc_ids": [
+      "104793",
+      "240562",
+      "293320",
+      "437427",
+      "444107",
+      "481728",
+      "494655"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "240562",
+        "chunk_index": 0,
+        "text": "your employer decides what options you have in the 401k. you can talk to your hr about that. there are requirements for diversity of various types of investments, money - market funds is being one of them. that is the investment account equivalent of cash. while it is not really cash but rather short term bonds - the term is generally very short and the risk is very limited. you can ' t earn much there, and you can ' t lose much there - so for all intents and purposes you can treat is as a cash - equivalent."
+      },
+      {
+        "doc_id": "494655",
+        "chunk_index": 0,
+        "text": "\" holding pure cash is a problem for 401k companies because they would then have follow banking rules because they would be holding your cash on their balance sheets. they don ' t want to be in that business. instead, they should offer at least one option as a cash equivalent - a money market fund. this way the money is held by the fund, not by 401k administrator. money market funds invest in ultra - short term paper, such as overnight loans between banks and other debt instruments that mature in a matter of days. so it is all extremely liquid, as close to \" \" money \" \" as you can get without actually being money. it is extremely rare for a money market fund to lose value, or \" \" break the buck. \" \" during the crisis of 2008, only one or two funds broke the buck, and it didn ' t last long. they had gotten greedy and their short term investments were a little more aggressive as they were trying to get extra returns. in short, your money is safe in a money market fund, and your 401k plan should offer one as the \" \" cash \" \" option, or at least it should offer a short - term bond fund. if you feel strongly that your money should be in actual cash, you can"
+      },
+      {
+        "doc_id": "104793",
+        "chunk_index": 0,
+        "text": "this situation, wanting desperately to have access to an investment vehicle in a 401k, but it not being available reminds me of two suggestions some make regarding retirement investing : this allows you the maximum flexibility in your retirement investing. i have never, in almost 30 years of 401k investing, seen a pure cash investment, is was always something that was at its core very short term bonds. the exception is one company that once you had a few thousand in the 401k, you could transfer it to a brokerage account. i have no idea if there was a way to invest in a money market fund via the brokerage, but i guess it was possible. you may have to look and see if the company running the 401k has other investment options that your employer didn ' t select. or you will have to see if other 401k custodians have these types of investments. then push for changes next year. regarding external ira / roth ira : you can buy a cd with fdic protection from funds in an ira / roth ira. my credit union with ncua protection currently has cds and even bump up cds, minimum balance is $ 500, and the periods are from 6 months to 3 years."
+      },
+      {
+        "doc_id": "481728",
+        "chunk_index": 0,
+        "text": "\" my 401k allows cash holdings to 100 % if desired. i ' m not sure why some won ' t, they are making money on your money after all. if you are looking to the funds vehicles for investing suggestions however, they will never allow cash. i found you must go into \" \" invest on my own \" \" vehicle to make that change. i have beaten and timed this market several times by sitting with cash on the sidelines. the only time i missed it was when i talked to a fund administrator in 2008 dot com crash and stayed in at this suggestion. i told him i didn ' t see where the market could go much higher as i had made 12 - 28 % on some funds. he was dead wrong of course and i lost 50 % that year. now, trust me, in 2017, assets are grossly overvalued. if they won ' t let you deposit to cash, don ' t invest and just save your money until the next crash. \""
+      },
+      {
+        "doc_id": "12316",
+        "chunk_index": 0,
+        "text": "considering it ' s all to risky for me, outside of a blind 401k, just having money to try it with is a bigger risk than i ' m willing to take. i see this complaint a lot and my response is about the same every time, if you know of something better, please share, so next time we can make it more realistic."
+      },
+      {
+        "doc_id": "494655",
+        "chunk_index": 1,
+        "text": "least it should offer a short - term bond fund. if you feel strongly that your money should be in actual cash, you can always stop contributing to the 401k and put the money in the bank. this is not a good idea though. unless you ' re close to retirement, you ' ll be much better off investing in a well diversified portfolio, even through the ups and downs of the market. \""
+      },
+      {
+        "doc_id": "79375",
+        "chunk_index": 0,
+        "text": "the presence of the 401k option means that your ability to contribute to an ira will be limited, it doesn ' t matter if you contribute to the 401k or not. unless your company allows you to roll over 401k money into an ira while you are still an employee, your money in the 401k will remain there. many 401k programs offer not just stock mutual funds, but bond mutual funds, and international funds. many also have target date funds. you will have to look at the paperwork for the funds to determine if any of them meet your definition of low expense. because any money you have in those 401k funds is going to remain in the 401k, you still need to look at your options and make the best choice. very few companies allow employees to invest in individual stocks, but some do. you can ask your employer to research other options for the 401k. the are contracting with a investment company to make the plan. they may be able to switch to a different package from the same company or may need to switch companies. how much it will cost them is unknown. you will have to understand when their current contract is up for renewal. if you feel their current plan is poor, it may be making hiring new employees difficult, or ti may"
+      },
+      {
+        "doc_id": "499827",
+        "chunk_index": 0,
+        "text": "the other alternative : just invest it in tax - efficient investments. you will have limited tax - deferral options outside of your 401k, but don ' t let that limit you. you can invest in a variety of etfs, stocks and mutual funds for growth, and tax - free investments like municipal bonds as you get older and need to draw income."
+      },
+      {
+        "doc_id": "563728",
+        "chunk_index": 1,
+        "text": "have to choose from one of these packages. second, there are various rules that have come into existence since the first days of 401k ( and 403b ) programs such as the investment choices must include funds of different types, and actively managed funds ( large cap, small cap etc ) are one of the choices that must be offered. gone are the days when the only choice was a variable annuity offered by the insurance company administering the 401k program. finally, program participants also have hopes ( cf. opening sentence ) and used to demand that the 401k program offer a few actively managed funds, not just index funds. \""
+      },
+      {
+        "doc_id": "425703",
+        "chunk_index": 0,
+        "text": "i tried to roll my funds to my new company. but my hr department from my old job would not work with me on getting it straightened out. so i decided to either pull it all out or roll it into a 401 k and use it as a trial for stocks and investments. simce it isn ' t a large amount of money to begin with"
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "[240562#0] your employer decides what options you have in the 401k. you can talk to your hr about that. there are requirements for diversity of various types of investments, money - market funds is being one of them. that is the investment account equivalent of cash. while it is not really cash but rather short term bonds - the term is generally very short and the risk is very limited. you can ' t earn much there, and you can ' t lose much there - so for all intents and purposes you can treat is as a cash - equivalent. \n\n[494655#0] \" holding pure cash is a problem for 401k companies because they would then have follow banking rules because they would be holding your cash on their balance sheets. they don ' t want to be in that business. instead, they should offer at least one option as a cash equivalent - a money market fund. this way the money is held by the fund, not by 401k administrator. money market funds invest in ultra - short term paper, such as overnight loans between banks and other debt instruments that mature in a matter of days. so it is all extremely liquid, as close to \" \" money \" \" as you can get without actually being money. it is extremely rare for a money market fund to lose value, or \" \" break the buck. \" \" during the crisis of 2008, only one or two funds broke the buck, and it didn ' t last long. they had gotten greedy and their short term investments were a little more aggressive as they were trying to get extra returns. in short, your money is safe in a money market fund, and your 401k plan should offer one as the \" \" cash \" \" option, or at least it should offer a short - term bond fund. if you feel strongly that your money should be in actual cash, you can\n\n[104793#0] this situation, wanting desperately to have access to an investment vehicle in a 401k, but it not being available reminds me of two suggestions some make regarding retirement investing : this allows you the maximum flexibility in your retirement investing. i have never, in almost 30 years of 401k investing, seen a pure cash investment, is was always something that was at its core very short term bonds. the exception is one company that once you had a few thousand in the 401k, you could transfer it to a brokerage account. i have no idea if there was a way to invest in a money market fund via the brokerage, but i guess it was possible. you may have to look and see if the company running the 401k has other investment options that your employer didn ' t select. or you will have to see if other 401k custodians have these types of investments. then push for changes next year. regarding external ira / roth ira : you can buy a cd with fdic protection from funds in an ira / roth ira. my credit union with ncua protection currently has cds and even bump up cds, minimum balance is $ 500, and the periods are from 6 months to 3 years.\n\n[481728#0] \" my 401k allows cash holdings to 100 % if desired. i ' m not sure why some won ' t, they are making money on your money after all. if you are looking to the funds vehicles for investing suggestions however, they will never allow cash. i found you must go into \" \" invest on my own \" \" vehicle to make that change. i have beaten and timed this market several times by sitting with cash on the sidelines. the only time i missed it was when i talked to a fund administrator in 2008 dot com crash and stayed in at this suggestion. i told him i didn ' t see where the market could go much higher as i had made 12 - 28 % on some funds. he was dead wrong of course and i lost 50 % that year. now, trust me, in 2017, assets are grossly overvalued. if they won ' t let you deposit to cash, don ' t invest and just save your money until the next crash. \"\n\n[12316#0] considering it ' s all to risky for me, outside of a blind 401k, just having money to try it with is a bigger risk than i ' m willing to take. i see this complaint a lot and my response is about the same every time, if you know of something better, please share, so next time we can make it more realistic.\n\n[494655#1] least it should offer a short - term bond fund. if you feel strongly that your money should be in actual cash, you can always stop contributing to the 401k and put the money in the bank. this is not a good idea though. unless you ' re close to retirement, you ' ll be much better off investing in a well diversified portfolio, even through the ups and downs of the market. \"\n\n[79375#0] the presence of the 401k option means that your ability to contribute to an ira will be limited, it doesn ' t matter if you contribute to the 401k or not. unless your company allows you to roll over 401k money into an ira while you are still an employee, your money in the 401k will remain there. many 401k programs offer not just stock mutual funds, but bond mutual funds, and international funds. many also have target date funds. you will have to look at the paperwork for the funds to determine if any of them meet your definition of low expense. because any money you have in those 401k funds is going to remain in the 401k, you still need to look at your options and make the best choice. very few companies allow employees to invest in individual stocks, but some do. you can ask your employer to research other options for the 401k. the are contracting with a investment company to make the plan. they may be able to switch to a different package from the same company or may need to switch companies. how much it will cost them is unknown. you will have to understand when their current contract is up for renewal. if you feel their current plan is poor, it may be making hiring new employees difficult, or ti may \n\n[499827#0] the other alternative : just invest it in tax - efficient investments. you will limited tax - deferral options outside of your 401k, but don ' t let that limit you. you can invest in a variety of etfs, stocks and mutual funds for growth, and tax - free investments like municipal bonds as you get older and need to draw income.\n\n[563728#1] have to choose from one of these packages. second, there are various rules that have come into existence since the first days of 401k ( and 403b ) programs such as the investment choices must include funds of different types, and actively managed funds ( large cap, small cap etc ) are one of the choices that must be offered. gone are the days when the only choice was a variable annuity offered by the insurance company administering the 401k program. finally, program participants also have hopes ( cf. opening sentence ) and used to demand that the 401k program offer a few actively managed funds, not just index funds.  \n[425703#0] i tried to roll my funds to my new company. but my hr department from my old job would not work with me on getting it straightened out. so i decided to either pull it all out or roll it into a 401 k and use it as a trial for stocks and investments. simce it isn ' t a large amount of money to begin with\n\n\n\n**Answer:**  You cannot find a \"pure cash\" option in your 401k because the rules require diversity of investment types, and there are limitations on what can be offered. [doc_id#0]"
+  },
+  {
+    "query_id": "2010",
+    "question": "Paypal website donations without being a charity",
+    "relevant_doc_ids": [
+      "174034",
+      "233877",
+      "44256"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "233877",
+        "chunk_index": 0,
+        "text": "yes, paypal allows you to add a donate button to your website. you ' re responsible for any tax record - keeping related to income from the donate button."
+      },
+      {
+        "doc_id": "571006",
+        "chunk_index": 0,
+        "text": "i see two ways you can handle this. use the gifts for the purpose of creating more free software. this is fundraising, and your cause is writing free software. the language is a little tricky from the paypal donate button ( emphasis mine ) : this button is intended for fundraising. if you are not raising money for a cause, please choose another option. nonprofits must verify their status to withdraw donations they receive. users that are not verified nonprofits must demonstrate how their donations will be used, once they raise more than $ 10, 000 usd. you don ' t have to be a nonprofit ; they are only requiring existing nonprofits to verify their status. you don ' t even have to account for the donations if they are below $ 10, 000. give out your paypal email address and instruct the gift - givers to simply send you money through their paypal interface. they can mark it as a gift when they send the money. i think option one is how the various bloggers and other personal users are justifiying their collection of donations, and i think its a valid use of the paypal donate button."
+      },
+      {
+        "doc_id": "517410",
+        "chunk_index": 0,
+        "text": "from paypal ' s website : paypal offers discounted transaction rates for 501 ( c ) ( 3 ) charities for most products, and consistently low rates for all other nonprofits. no extra fees for setup, statements, withdrawals or cancellation. 2. 2 % + $ 0. 30 per transaction and no monthly fee for charities. there is a reduced rate if the donations total more than $ 100, 000 ( which they would for wikipedia ), but paypal doesn ' t publish those rates. you have to call and ask about them. one forum i read indicates the rate drops to 1. 9 % + $ 0. 30 per transaction."
+      },
+      {
+        "doc_id": "174034",
+        "chunk_index": 0,
+        "text": "an answer from paypal stated that donations may be turned on only for business paypal accounts that are verified for its non - profit status. such paypal business account must be opened in the name of non - profit organization ( not a single person ) and go through verification process. one must provide the following information : that would mean that one cannot ask for donations as a private person, at least in croatia, and probably in europe."
+      },
+      {
+        "doc_id": "413681",
+        "chunk_index": 0,
+        "text": "you can have a way for people to pay, i. e. some kind of payment gateway. run as business : best create a company and get the funds there. this would be treated as income of the website and would be taxed accordingly. one can deduct expenses for running the website, etc. run as charity : register as one, however the cause should be considered as charitable one by the tax authorities. only then the donations would be tax free."
+      },
+      {
+        "doc_id": "44256",
+        "chunk_index": 0,
+        "text": "yes, paypal has such a button you can use, but to be clear, the money you receive is taxable income. your website is providing ' value ' to the readers, and while they may feel they are making a gift to you, it ' s earned income as far as the irs is concerned. ( this assumes you are in the us, you may wish to add a tag to indicate your country )"
+      },
+      {
+        "doc_id": "439460",
+        "chunk_index": 0,
+        "text": "\" technically, this is considered \" \" income \" \" for you, and is actually not considered a \" \" donation \" \" for your donors, but is instead a \" \" gift \" \" ( not tax - deductible for your donors ). so, you are technically required to report it, and there is a pretty significant audit trail that can be followed to prove you made that money. i don ' t know if paypal is required to file 1099s for payments received, but if you ' ve ever received such a document, so has the irs, and they ' ll match it to the income you claimed and see a discrepancy, triggering an audit. depending on the amount that it affects your taxes ( it can be significant ; if you have a $ 50k / yr day job, you ' d owe the government 25 cents on every dollar donated ), they can let it slide, they may simply dock your next return, or they may come after you for interest and penalties or even charge you with criminal tax fraud if they could prove you maliciously attempted to conceal this revenue. now, if you already itemize using a schedule a, then you can erase this income by deducting the costs of the server, not to exceed"
+      },
+      {
+        "doc_id": "262521",
+        "chunk_index": 0,
+        "text": "donations need to be with no strings attached. in this case, you make the cash donation, a deduction, and then they pay you, in taxable income. it ' s a wash. why not just give them the service for free? otherwise this is just money going back and forth."
+      },
+      {
+        "doc_id": "439460",
+        "chunk_index": 2,
+        "text": "hosting company and from paypal. now, this would apply if you were running the server with the primary goal of making a regular profit ; schedule c cannot be used for income from a \" \" hobby \" \", undertaken primarily for enjoyment and where a few bucks in revenue is gravy. whether you think you can get away with that in your current situation is your prerogative ; i don ' t think you would, given that the donations are solicited and optional, and thus there is no expectation of ever turning a profit on this game server. \""
+      },
+      {
+        "doc_id": "326167",
+        "chunk_index": 0,
+        "text": "\" in the us : in the uk : you can set up a caf ( charities aid foundation ) charity account. this allows you to donate to charities anonymously, while still allowing the recipient to benefit from gift aid ( where they can reclaim the income tax you ' d paid on the donation ). you can even use this account to donate to overseas charities if you ' re donating at least £250. or you can use a different intermediary such as bt mydonate or the big give or another intermediary. see the wikipedia article \" \" comparison of online charity donation services in the united kingdom \" \". in canada : if there ' s a united way charity in your country, it may have a donor choice program which may be able to forward a designated donation to any other charity in your country. the united way probably charges a fee for this service. i ' m not sure whether or not the united way would be willing to keep you anonymous, and i ' m not sure whether or not the united way would add you to its mailing list. more details may be available elsewhere online. \""
+      }
+    ],
+    "retrieval_hit": true,
+    "answer": "Paypal allows you to add a donate button to your website. [233877#0]  However, the money you receive is taxable income. [439460#0] \n\n\nYou can use Paypal's donate button for fundraising purposes. [233877#0] You must be a verified non-profit organization to withdraw donations. [174034#0]  If you are not a non-profit, you will need to demonstrate how your donations will be used. [571006#0]"
+  },
+  {
+    "query_id": "9245",
+    "question": "Stock Options for a company bought out in cash and stock",
+    "relevant_doc_ids": [
+      "194561"
+    ],
+    "retrieved": [
+      {
+        "doc_id": "400644",
+        "chunk_index": 0,
+        "text": "in the real world, there are only two times you ' ll see that 5 % become worth anything - ie, something you can exchange for cash - 1 ) if another company buys them ; ( 2 ) if they go public. if neither of these things happen, you cannot do anything with the stock or stock options that you own."
+      },
+      {
+        "doc_id": "259560",
+        "chunk_index": 0,
+        "text": "\" i ' m in the us, so there may be idiosyncrasies with uk taxes that i ' m not familiar with, but here ' s how i ' ve always treated stock i get as compensation. suppose the vested shares are worth x. if i had x in cash, would i buy my company ' s stock as an investment? usually the answer is no, not because i think the stock will tank, but because there ' s better things i can do with that cash ( pay off debt, unfortunately ). therefore i sell the shares and use the cash for something else. you have stock options. so suppose the stock value is x but you can buy it for y. you can either : therefore, the math is the same. if you had x in cash, would you buy your company ' s stock as an investment? if so, then option 2 is best, because you can get x in stock for a lower cost. ( option 3 might be better if the gain on the stock will be taxed higher, but they ' re pretty much equivalent if there ' s no chance that the stock will drop below y ) if not, then option 4 is best since you will likely get more than x - y from selling the options that by"
+      },
+      {
+        "doc_id": "131488",
+        "chunk_index": 0,
+        "text": "what are my options, if any, in how to deal with a buyout that forced me to sell, and accept cash only for my florida usa company shares? options are limited ;"
+      },
+      {
+        "doc_id": "163433",
+        "chunk_index": 0,
+        "text": "there are many stategies with options that you have listed. the one i use frequently is buy in the money calls and sell at the money staddles. do this only on stocks you do not mind owning because that is the worse thing that can happen and if you like the company you stand less of a chance of being scared out of the trade. it works well with high quality resonable dividend paying stocks. cat, ge, mrk, pm etc. good luck"
+      },
+      {
+        "doc_id": "178497",
+        "chunk_index": 0,
+        "text": "stock options represent an option to buy a share at a given price. what you have been offered is the option to buy the company share at a given price ( $ 5 ) starting a given date ( your golden handcuffs aka vesting schedule ). if the company ' s value doubles in 1 year and the shares are liquid ( i. e. you can sell them ) then you ' ve just made $ 125k of profit. if the company ' s value has gone to zero in 1 year then you ' ve lost nothing other than your hopes of getting rich. as others have mentioned, the mechanics of exercising the option and selling the shares can typically be accomplished without any cash involved. the broker will do both in a single transaction and use the proceeds of the sale to pay the cost of buying the shares. you should always at least cover the taxable portion of the transaction and typically the broker will withhold that tax anyways. otherwise you could find yourself in a position where you have actually lost money due to tax being owed while the shares decline in value below that tax. you don ' t have to worry about that right now. again as people have mentioned options will typically expire 10 years from vesting or 90 days from leaving your employment with the company. i '"
+      },
+      {
+        "doc_id": "472516",
+        "chunk_index": 0,
+        "text": "i can ' t speak for all brokerages but the one i use requires cash accounts to have cash available to purchase the stock in this situation. with the cash available you would be able to purchase the stock if the option was exercised. hope this helps"
+      },
+      {
+        "doc_id": "117177",
+        "chunk_index": 0,
+        "text": "i ' ve had stock options at two different jobs. if you are not getting a significant ownership stake, but rather just a portion of options as incentive to come work there, i would value them at $ 0. if you get the same salary and benefits, but no stock options at another company and you like the other company better, i ' d go to the other company. i say this because there are so many legal changes that seem to take value from you that you might as well not consider the options in your debate. that being said, the most important question i ' d want to know is what incentive does the company have to going public or getting bought? if the company is majority owned by investors, the stock options are likely to be worth something if you wait long enough. you are essentially following someone else ' s bet. if the company is owned by 2 or 3 individuals who want to make lots of money, they may or may not decide to sell or go public."
+      },
+      {
+        "doc_id": "409818",
+        "chunk_index": 0,
+        "text": "\" when you exercise your options, you come up with cash to buy the shares. this makes you an owner of the company for shares at the share price your options let you have. ideally, your share price is at a significant discount to what the company is worth. being a shareholder, you gain from any share price appreciation in a sale. the only thing the \" \" 60 - day window \" \" applies to is whether you come up with the cash to buy fast enough, or your shares get permanently deleted from the company finances, where everyone else potentially makes more, you make nothing. the sale of the company is based on whenever the sell finalizes, which is between your company and the acquiring company. \""
+      },
+      {
+        "doc_id": "220147",
+        "chunk_index": 0,
+        "text": "options granted by an employer to an employee are generally different that the standardized options that are traded on public stock option exchanges. they may or may not have somewhat comparable terms, but generally the terms are fairly different. as a holder of an expiring employee option, you can only choose to exercise it by paying the specified price and receiving the shares, or not. it is common that the exercise system will allow you to exercise all the shares and simultaneously sell enough of the acquired shares to cover the option cost of all the shares, thus leaving you owning some of the stock without having to spend any cash. you will owe taxes on the gain on exercise, regardless of what you do with the stock. if you want to buy publicly - traded options, you should consider that completely separately from your employer options other than thinking about how much exposure you have to your company situation. it is very common for employees to be imprudently overexposed to their company ' s stock ( through direct ownership or options )."
+      },
+      {
+        "doc_id": "4794",
+        "chunk_index": 0,
+        "text": "yes when exercising a stock option you will be buying the stock at the strike price so you will be putting up your money, if you lose that money you can declare it as a loss like any other transaction. so if the stock is worth $ 1 and you have 10 options with a strike at $ 0. 50 you will spend $ 500 when you exercise your options. if you hold those shares and the company is then worth $ 0 you lost $ 500. i have not verified my answer so this is solely from my understanding of accounting and finance. please verify with your accountant to be sure."
+      }
+    ],
+    "retrieval_hit": false,
+    "answer": "When exercising stock options, you will need to pay the strike price to buy the shares [4794#0].  If the stock is worth $1 and your options have a strike price of $0.50, you will spend $500 when you exercise your options. If the company is then worth $0, you lost $500. [4794#0]"
+  }
+]
